@@ -1,0 +1,3 @@
+- [ ] mongodb user permissions
+- [ ] mongodb consultas sencillas
+- [ ] mongodb consultas agregación
