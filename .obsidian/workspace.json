@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cde2cf9f7a4c9258",
+        "id": "af4fdaff1e406909",
         "type": "tabs",
         "children": [
           {
-            "id": "3c0c9884c2bef153",
+            "id": "8792fb3fc0a0c75e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 453.5
   },
   "right": {
     "id": "757928fde36ad339",
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
-                "collapseAll": false,
+                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md"
+                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3c0c9884c2bef153",
+  "active": "8792fb3fc0a0c75e",
   "lastOpenFiles": [
+    "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
+    "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+    "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
     "hdfs-hadoop/doc/configuración-capa-yarn.md",
     "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+    "cluster-HDFS/task/bda02-01-task/bda02-01-task.md",
+    "cluster-HDFS/cluster-HDFS.md",
     "hdfs-hadoop/img/add-ssh-public-keys.png",
     "hdfs-hadoop/img",
-    "cluster-HDFS/cluster-HDFS.md",
-    "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
     "nosql/doc/bases-de-datos-nosql.md",
     "Profesores/Javier-Abellán-Ferrer.md",
     "Profesor.md",
@@ -178,11 +181,9 @@
     "ceia-bda/bda-head.md",
     "ceia-bda/bda-doc.md",
     "ceia-bda/bda.md",
-    "cluster-HDFS/task/bda02-01-task/bda02-01-task.md",
     "ceia-sbd/sbd.md",
     "ceia-sbd/sbd-video.md",
     "ceia-sbd/sbd-todo.md",
-    "ceia-sbd/sbd-link.md",
-    "ceia-sbd/sbd-head.md"
+    "ceia-sbd/sbd-link.md"
   ]
 }
