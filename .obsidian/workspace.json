@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -148,16 +148,16 @@
   },
   "active": "3c0c9884c2bef153",
   "lastOpenFiles": [
+    "hdfs-hadoop/doc/configuración-capa-yarn.md",
+    "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
     "hdfs-hadoop/img/add-ssh-public-keys.png",
     "hdfs-hadoop/img",
     "cluster-HDFS/cluster-HDFS.md",
     "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
-    "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
     "nosql/doc/bases-de-datos-nosql.md",
     "Profesores/Javier-Abellán-Ferrer.md",
     "Profesor.md",
     "Profesores",
-    "hdfs-hadoop/doc/configuración-capa-yarn.md",
     "nosql/task",
     "nosql/pdf",
     "nosql/doc",

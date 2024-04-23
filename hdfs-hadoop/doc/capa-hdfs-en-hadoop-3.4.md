@@ -34,6 +34,7 @@ sudo apt-get install gcc make perl
 ```
 
 ```bash
+ssh hdfs-admin@192.168.0.100
 ssh hdfs-admin@192.168.0.101
 ssh hdfs-admin@192.168.0.102
 ssh hdfs-admin@192.168.0.103
@@ -112,11 +113,12 @@ sudo systemctl restart ssh
 sudo systemctl status ssh
 
 # generar pareja de llaves
+
 ssh-keygen
 ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo-template ; ls -la .ssh/
 ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo01 ; ls -la .ssh/
 ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo02 ; ls -la .ssh/
-ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nod003 ; ls -la .ssh/
+ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo03 ; ls -la .ssh/
 ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo04 ; ls -la .ssh/
 ls -la .ssh/
 ```
@@ -165,6 +167,64 @@ env
 
 #### 6.- Configuración ssh claves publicas
 
+```bash title:"<font style="color:yellow">⚠️</font> Si da problemas" fold wrap
+# si da problemas
+## nodo-template
+rm -rf .ssh/authorized_keys;
+rm -rf .ssh/nodo-template.pub;
+rm -rf .ssh/nodo-template;
+rm -rf .ssh/known_hosts;
+rm -rf .ssh/authorized_keys_old;
+rm -rf .ssh/known_hosts.old;
+ls -la .ssh/;
+ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo-template ; ls -la .ssh/
+sudo systemctl restart sshd # resetear servicio
+
+## nodo01
+rm -rf .ssh/authorized_keys;
+rm -rf .ssh/nodo01.pub;
+rm -rf .ssh/nodo01;
+rm -rf .ssh/known_hosts;
+rm -rf .ssh/authorized_keys_old;
+rm -rf .ssh/known_hosts.old;
+ls -la .ssh/;
+ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo01 ; ls -la .ssh/
+sudo systemctl restart sshd # resetear servicio
+
+## nodo02
+rm -rf .ssh/authorized_keys;
+rm -rf .ssh/nodo02.pub;
+rm -rf .ssh/nodo02;
+rm -rf .ssh/known_hosts;
+rm -rf .ssh/authorized_keys_old;
+rm -rf .ssh/known_hosts.old;
+ls -la .ssh/;
+ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo02 ; ls -la .ssh/
+sudo systemctl restart sshd # resetear servicio
+
+## nodo03
+rm -rf .ssh/authorized_keys;
+rm -rf .ssh/nodo03.pub;
+rm -rf .ssh/nodo03;
+rm -rf .ssh/known_hosts;
+rm -rf .ssh/authorized_keys_old;
+rm -rf .ssh/known_hosts.old;
+ls -la .ssh/;
+ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo03 ; ls -la .ssh/
+sudo systemctl restart sshd # resetear servicio
+
+## nodo04
+rm -rf .ssh/authorized_keys;
+rm -rf .ssh/nodo04.pub;
+rm -rf .ssh/nodo04;
+rm -rf .ssh/known_hosts;
+rm -rf .ssh/authorized_keys_old;
+rm -rf .ssh/known_hosts.old;
+ls -la .ssh/;
+ssh-keygen -t rsa -f /home/hdfs-admin/.ssh/nodo04 ; ls -la .ssh/
+sudo systemctl restart sshd # resetear servicio
+```
+
 ```bash
 # desde nodo-template 
 ssh-copy-id -i .ssh/nodo-template.pub hdfs-admin@nodo-template;
@@ -202,6 +262,22 @@ ssh-copy-id -i .ssh/nodo04.pub hdfs-admin@nodo03;
 ssh-copy-id -i .ssh/nodo04.pub hdfs-admin@nodo04;
 ```
 
+📂
+>[!my-folder]-  sshd_config
+>`sudo nano /etc/ssh/sshd_config`
+>```bash
+>[...]
+>Port 22  
+>ListenAddress 0.0.0.0
+>PubkeyAuthentication yes
+>[...]
+>```
+
+>[!my-comment]-  comentario
+>comentariooooooooooooo
+
+>[!Tip]-  Resetear servicio ssh
+>`sudo systemctl restart sshd`
 #### 7.- Montar disco de datos
 
 ```bash wrap
@@ -256,3 +332,11 @@ sdb      8:16   0   500G  0 disk
 sr0     11:0    1  1024M  0 rom  
 ```
 
+```bash
+# verificar entorno
+env | grep "hadoop";
+env | grep "java";
+lsblk | grep "discogrande";
+
+
+```

@@ -1,0 +1,45 @@
+/* https://lucide.dev/icons/folder */
+
+-var(--callout-warning)
+  for
+  orange
+  -var(--callout-question)
+  for
+  yellow
+  -var(--callout-bug)
+  for
+  red
+  -var(--callout-tip)
+  for
+  green
+  -var(--callout-success)
+  for
+  light
+  green
+  -var(--callout-example)
+  for
+  purple
+  -var(--callout-quote)
+  for
+  grey
+  -var(--callout-default)
+  for
+  blue
+  .callout[data-callout="my-comment"] {
+  --callout-color: 99, 71, 214;
+  --callout-icon: lucide-message-square;
+  /* --callout-icon: message-o; // font-awesome */
+  border: 3px solid rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  /* box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5); */
+}
+
+/* 📁 */
+.callout[data-callout="my-folder"] {
+  --callout-color: var(--callout-question);
+  --callout-icon: lucide-folder;
+  /* --callout-icon: message-o; // font-awesome */
+  border: 3px solid rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  /* box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5); */
+}
