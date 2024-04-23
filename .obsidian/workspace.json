@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13f2aa3833eaeeaf",
+        "id": "cde2cf9f7a4c9258",
         "type": "tabs",
         "children": [
           {
-            "id": "cf026b7dff33e591",
+            "id": "3c0c9884c2bef153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 658.5
+    "width": 259.5
   },
   "right": {
     "id": "757928fde36ad339",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md"
               }
             }
           }
@@ -146,13 +146,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf026b7dff33e591",
+  "active": "3c0c9884c2bef153",
   "lastOpenFiles": [
-    "mongodb/mongodb.md",
-    "README.md",
-    "bigdata/bigdata.md",
+    "hdfs-hadoop/img/add-ssh-public-keys.png",
+    "hdfs-hadoop/img",
     "cluster-HDFS/cluster-HDFS.md",
-    "cluster-HDFS/pdf/bda02-01-doc01-IP-manual.pdf",
+    "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
+    "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+    "nosql/doc/bases-de-datos-nosql.md",
+    "Profesores/Javier-Abellán-Ferrer.md",
+    "Profesor.md",
+    "Profesores",
+    "hdfs-hadoop/doc/configuración-capa-yarn.md",
+    "nosql/task",
+    "nosql/pdf",
+    "nosql/doc",
+    "nosql",
+    "hdfs-hadoop/task",
+    "hdfs-hadoop/pdf",
+    "hdfs-hadoop/doc.md",
+    "hdfs-hadoop/videos",
+    "hdfs-hadoop/doc",
+    "README.md",
+    "mongodb/mongodb.md",
+    "bigdata/bigdata.md",
     "linux-basics/linux-basics.md",
     "bigdata/doc/sbd-bigdata.md",
     "ceia-bda/bda-video.md",
@@ -161,28 +178,11 @@
     "ceia-bda/bda-head.md",
     "ceia-bda/bda-doc.md",
     "ceia-bda/bda.md",
-    "cluster-HDFS/task/bda02-02-task/Práctica 3 Clúster HDFS (REAL).pdf",
-    "cluster-HDFS/task",
-    "cluster-HDFS/pdf",
-    "cluster-HDFS/doc",
-    "cluster-HDFS",
     "cluster-HDFS/task/bda02-01-task/bda02-01-task.md",
     "ceia-sbd/sbd.md",
     "ceia-sbd/sbd-video.md",
     "ceia-sbd/sbd-todo.md",
     "ceia-sbd/sbd-link.md",
-    "ceia-sbd/sbd-head.md",
-    "ceia-sbd/sbd-doc.md",
-    "mongodb/pdf/sbd02-mongodb-crud01.pdf",
-    "bigdata/doc/00-installer-config-yaml.md",
-    "bigdata/task",
-    "bigdata/pdf",
-    "mongodb/doc/mongocompass.md",
-    "bigdata/doc",
-    "nosql/doc/nsql-basics.md",
-    "nosql/task/sbd03-nosql-task01/sbd03-nosql-task01-resolution.md",
-    "nosql/task/sbd03-nosql-task01/sbd03-nosql-task01-process.md",
-    "nosql/task/sbd03-nosql-task01/sbd03-nosql-task01-notes.md",
-    "nosql/task/sbd03-nosql-task01/sbd03-nosql-task01-links.md"
+    "ceia-sbd/sbd-head.md"
   ]
 }
