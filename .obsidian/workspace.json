@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
-                "mode": "preview",
-                "source": false
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-01-env.md"
+                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +149,8 @@
   },
   "active": "8792fb3fc0a0c75e",
   "lastOpenFiles": [
-    "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
     "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+    "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
     "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
     "hdfs-hadoop/doc/configuración-capa-yarn.md",
     "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",

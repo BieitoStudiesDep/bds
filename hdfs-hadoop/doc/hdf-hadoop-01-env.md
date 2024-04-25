@@ -27,6 +27,8 @@
 ># install guest additions
 >sudo apt-get install gcc make perl
 >```
+
+>[!info]- connection host-nodos
 >
 >```bash
 >ssh hdfs-admin@192.168.0.100
