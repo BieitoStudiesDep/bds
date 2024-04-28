@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8792fb3fc0a0c75e",
+            "id": "88e421697256bd14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cca13bd6e540e85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hdfs-hadoop/archivos/hdfs-site.xml.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 200
   },
   "right": {
     "id": "757928fde36ad339",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
+                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md"
+                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,44 +158,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8792fb3fc0a0c75e",
+  "active": "88e421697256bd14",
   "lastOpenFiles": [
-    "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
     "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
-    "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
-    "hdfs-hadoop/doc/configuración-capa-yarn.md",
+    "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+    "hdfs-hadoop/img/hdfs-hadoop-web-overview-02.png",
+    "hdfs-hadoop/img/hdfs-hadoop-web-overview-01.png",
+    "hdfs-hadoop/img/hdfs-hadoop-web-datanodes.png",
     "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
-    "cluster-HDFS/task/bda02-01-task/bda02-01-task.md",
+    "hdfs-hadoop/doc/configuración-capa-yarn.md",
+    "hdfs-hadoop/doc/nodo-datanode.md",
+    "hdfs-hadoop/archivos/hdfs-site.xml-datanode.md",
+    "hdfs-hadoop/archivos/hdfs-site.xml-namenode.md",
+    "hdfs-hadoop/archivos/hdfs-site.xml.md",
+    "hdfs-hadoop/archivos/core-site.xml.md",
+    "hdfs-hadoop/doc/nodo-namenode.md",
+    "hdfs-hadoop/doc/hdf-hadoop-00-nodos.md",
+    "hdfs-hadoop/archivos/decomisados.md",
+    "hdfs-hadoop/archivos/workers.md",
+    "hdfs-hadoop/conf/datanode/decomisados",
+    "hdfs-hadoop/conf/datanode/workers",
+    "hdfs-hadoop/conf/namenode/core-site.xml",
+    "hdfs-hadoop/conf/namenode/hdfs-site.xml",
+    "hdfs-hadoop/conf/datanode/hdfs-site.xml",
+    "hdfs-hadoop/conf/datanode/core-site.xml",
     "cluster-HDFS/cluster-HDFS.md",
+    "hdfs-hadoop/conf/datanode",
+    "hdfs-hadoop/conf/namenode/datanode",
+    "hdfs-hadoop/conf/namenode",
+    "hdfs-hadoop/conf",
+    "hdfs-hadoop/doc/nodo-decomisado.md",
+    "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
+    "cluster-HDFS/task/bda02-02-task/bda02-02-task.md",
+    "vsc.md",
+    "cluster-HDFS/task/bda02-01-task/bda02-01-task.md",
     "hdfs-hadoop/img/add-ssh-public-keys.png",
-    "hdfs-hadoop/img",
     "nosql/doc/bases-de-datos-nosql.md",
     "Profesores/Javier-Abellán-Ferrer.md",
     "Profesor.md",
-    "Profesores",
-    "nosql/task",
-    "nosql/pdf",
-    "nosql/doc",
-    "nosql",
-    "hdfs-hadoop/task",
-    "hdfs-hadoop/pdf",
     "hdfs-hadoop/doc.md",
-    "hdfs-hadoop/videos",
-    "hdfs-hadoop/doc",
     "README.md",
-    "mongodb/mongodb.md",
-    "bigdata/bigdata.md",
-    "linux-basics/linux-basics.md",
-    "bigdata/doc/sbd-bigdata.md",
-    "ceia-bda/bda-video.md",
-    "ceia-bda/bda-todo.md",
-    "ceia-bda/bda-link.md",
-    "ceia-bda/bda-head.md",
-    "ceia-bda/bda-doc.md",
-    "ceia-bda/bda.md",
-    "ceia-sbd/sbd.md",
-    "ceia-sbd/sbd-video.md",
-    "ceia-sbd/sbd-todo.md",
-    "ceia-sbd/sbd-link.md"
+    "mongodb/mongodb.md"
   ]
 }

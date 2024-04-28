@@ -1,42 +1,23 @@
-### Entorno
+# hdf-hadoop  Entorno
 
->[!info]- parámetros del entorno
->
-> |mv-name|hdfs|ip|-|
-> |-|-|-|-|
-> |hadoop-template|-|192.168.0.100|-|
-> |hadoop-nodo01|namenode|192.168.0.101|-|
-> |hadoop-nodo02|datanode|192.168.0.102|-|
-> |hadoop-nodo03|datanode|192.168.0.103|-|
-> |hadoop-nodo04|datanode|192.168.0.104|-|
->
-> |hardware|value|
-> |-|-|
-> |ram|2048MB|
-> |procesadores|2|
-> |internal-disk|100G|
-> |data-disk|500G|
->
-> |user|password|
-> |-|-|
-> |hdfs-admin|abc123.|
+#### Entorno
+>[!Info]- hdf-hadoop  Entorno
+> [[#1.- add static IP|1. configurado la dirección IP fija de cada uno de los nodos]]
+> 2. cambiado el nombre del nodo
+> 3. hemos incluido en su archivo Host las ips los nombres del resto de los nodos 
+> 4. instalado Java en su versión 8 
+>	- además hemos creado una variable de sistema que se llama Java home a la que le hemos dado la ruta de este Java versión 8
+>	- lo hemos hecho en el archivo `/etc/environment`
+>	- porque esto nos permite que esta variable esté disponible Incluso si no hemos iniciado sesión Dentro de este equipo solamente lo hemos encendido
+> 5. instalado el servidor ssh
+>	- pienso que no sería necesario pero hemos des-comentar las líneas del puerto y de las ips aceptadas hemos reiniciado el servicio hemos generado las claves públicas y privadas y las hemos compartido entre todos los equipos incluido el local Host después hemos 
+> 6. descargado hadoop lo hemos descomprimido y lo hemos dejado en una carpeta con un nombre amigable porque lo vamos a usar mucho después de esto hemos vuelto al archivo /etc/environment para Añadir un par de cosas en primer lugar 
+>	- hemos añadido al pth las rutas de la carpeta Bin y sbin de hadoop para hacer accesibles todos sus comandos desde cualquier punto del sistema 
+>	- hemos añadido una nueva variable global llamada hado home en la que hemos puesto la ruta base donde están los archivos de hadoop 
+> 7. por último he configurado ese segundo disco duro que teníamos
+>	- para que siempre en cada arranque se monte en una carpeta que se llama disc grande cuando configure hado le indicaré que deje sus archivos dentro de esta carpeta en principio con esto acabamos la parte de
 
->[!info]- install guest additions
->
->```bash
-># install guest additions
->sudo apt-get install gcc make perl
->```
 
->[!info]- connection host-nodos
->
->```bash
->ssh hdfs-admin@192.168.0.100
->ssh hdfs-admin@192.168.0.101
->ssh hdfs-admin@192.168.0.102
->ssh hdfs-admin@192.168.0.103
->ssh hdfs-admin@192.168.0.104
->```
 
 #### 1.- add static IP
 

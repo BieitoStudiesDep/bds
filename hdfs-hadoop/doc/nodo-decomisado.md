@@ -1,0 +1,14 @@
+      - ruta del archivo que contiene el nombre de los nodos
+	      - que va a ser decomisados
+      - nodos que por alguna razon (mantenimiento etc)
+	      - van a estar fuera del sistema durante algun tiempo
+      - en el momento que hadoop declaren como muertos 
+	      - hadoop no desencadenará ninguna copia de bloques
+	      - por que ya la ha echo antes
+      - necesario crear la ruta `~/hadoop/etc/hadoop/decomisados`
+      - definimos una ruta para los host excluidos decomisados
+      - decomisiar un nodo es
+	      - indicarle a hadoop que ese nodo 
+	      - va a ser apagado por razones de mantenimiento etc ..
+	      - y que por lo tanto aparecerá como muerto en algun momento
+	      - hadoop hara las copias que contiene ese nodo.
