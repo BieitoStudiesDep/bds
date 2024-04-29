@@ -1,17 +1,38 @@
 ---
-tags:
-						  - ceia-bdsadoop-template
-type: video
-issue: hdfs-hadoop
-concept: capa-hdfs-en-hadoop-3.4
+parent:
+  - "[[cluster-HDFS]]"
+children:
+  - "[[hdfs-hadoop-00-nodos]]"
+  - "[[hdfs-hadoop-01-env]]"
+  - "[[hdfs-hadoop-02-conf]]"
+subChildren:
+  - "[[nodo-datanode]]"
+  - "[[nodo-namenode]]"
+  - "[[nodo-decomisado]]"
+📹:
+  - https://youtu.be/5Mp164m1__Q
+pdf: 
+files:
+  - "[[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]]"
+  - "[[cluster-HDFS/02-capa-hdfs-hadoop/archivos/decomisados|decomisados]]"
+  - "[[hdfs-site.xml-namenode]]"
+  - "[[hdfs-site.xml-datanode]]"
+  - "[[cluster-HDFS/02-capa-hdfs-hadoop/archivos/workers|workers]]"
+pre:
+  - "[[hdfs-nodos-conf]]"
+next:
+  - "[[capa-hdfs-yarn-conf]]"
 ---
+
+# Capa hdfs hadoop
+
 ![Capa-HDFS-en-Hadoop-3.4](https://youtu.be/5Mp164m1__Q?si=mORqT6rNwYBbbsTf)
 
-![[hdf-hadoop-00-nodos]]
+![[hdfs-hadoop-00-nodos]]
 
-![[hdf-hadoop-01-env#Entorno]]
+![[hdfs-hadoop-01-env#Entorno]]
 
-![[hdf-hadoop-02-conf#Config]]
+![[hdfs-hadoop-02-conf#Hadoop-Config]]
 
 >[!Transcription]-
 >>[!Tip]- Configurar entorno

@@ -1,3 +1,6 @@
-[[cluster-HDFS/01-configurar-nodos/configurar-nodos]]
+- [[hdfs-nodos-conf]]
+	 ![[hdfs-nodos-conf#Entorno]]
 [[capa-hdfs-en-hadoop-3.4]]
+	![[hdfs-hadoop-02-conf#Hadoop-Config]]
 [[capa-hdfs-yarn]]
+	![[capa-hdfs-yarn-conf#Yarn-Config]]

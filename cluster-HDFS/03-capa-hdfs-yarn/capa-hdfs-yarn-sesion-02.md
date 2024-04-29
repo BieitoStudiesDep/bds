@@ -1,0 +1,1 @@
+![Práctica YARN Implementación Parte 2/2](https://youtu.be/QiFXyuAEwUA?si=4ZUVVXe2nLJPt-wE)

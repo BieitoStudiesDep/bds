@@ -3,6 +3,15 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "video": "multitext"
+    "video": "multitext",
+    "parent": "multitext",
+    "children": "multitext",
+    "next": "multitext",
+    "pre": "multitext",
+    "subChildren": "multitext",
+    "📹": "multitext",
+    "pdf": "multitext",
+    "files": "multitext",
+    "type": "multitext"
   }
 }

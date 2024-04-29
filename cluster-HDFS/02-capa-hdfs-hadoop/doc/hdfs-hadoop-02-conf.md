@@ -1,5 +1,5 @@
 
-#### Config
+#### Hadoop-Config
 >[!Info]- hdf-hadoop  Conf
 > [[#1.- hadoop - identificar el nodo que actúa como principal hdfs-hadoop/archivos/core-site.xml core-site.xml]]
 > 

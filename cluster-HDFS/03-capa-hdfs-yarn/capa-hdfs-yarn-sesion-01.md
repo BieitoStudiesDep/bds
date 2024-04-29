@@ -1,0 +1,1 @@
+![Práctica YARN -Teoría- Parte 1/2](https://youtu.be/1roJiBHjCWY?si=BDS0cbdKr20JUTFZ)

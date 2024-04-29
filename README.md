@@ -9,4 +9,4 @@
 
 - [bigdata](/bigdata/bigdata.md)
 - [mongodb](/mongodb/mongodb.md)
-- [nosql](/nosql/nosql.md)
+- [[nosql]]

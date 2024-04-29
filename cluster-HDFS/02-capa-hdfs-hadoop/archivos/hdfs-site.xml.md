@@ -9,10 +9,8 @@
 >> - puedo que hadoop se encarga de 
 >> 	- si el nodo es tipo namenode solo le las propiedades de su tipo
 >> 	- si el nodo es tipo datanode solo le las propiedades de su tipo 
->> - `dfs.namenode.name.dir`
->> - es necesario definir una ruta para la persistencia de los archivos
 >
 
-![[hdfs-site.xml-namenode]]
+[[hdfs-site.xml-namenode]]
 
-![[hdfs-site.xml-datanode]]
+[[hdfs-site.xml-datanode]]
