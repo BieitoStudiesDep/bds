@@ -13,7 +13,7 @@
 >> |-|-|-|
 >> |`fs.defaultFS`| `hdfs://nodo01:9000` |<ul><li>indicamos la ruta hdfs </li><li>al nodo que tendrá la función de [[nodo-namenode]] </li><li>por el puerto :9000</ul>|
 >
->>[!my-code]-  [[nodo-namenode]] y [[nodo-datanode]] [[/hdfs-hadoop/archivos/core-site.xml.md|core-site.xml]] code
+>>[!my-code]-  [[nodo-namenode]] y [[nodo-datanode]] [[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]] code
 >>
 >> ```xml
 >> <configuration>

@@ -1,9 +1,9 @@
 
 ## configurar archivos
 
-![[hdfs-hadoop/archivos/core-site.xml|core-site.xml]]
+![[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]]
 ![[hdfs-site.xml-namenode]]
-![[hdfs-hadoop/archivos/workers|workers]]
+![[cluster-HDFS/02-capa-hdfs-hadoop/archivos/workers|workers]]
 
 ## establecer la tabla de particiones
 

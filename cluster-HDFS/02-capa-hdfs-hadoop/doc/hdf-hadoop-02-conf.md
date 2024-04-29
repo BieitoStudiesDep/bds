@@ -105,12 +105,12 @@ tree ~/hadoop/etc/hadoop/
 >>> </configuration>
 >>> ```
 
-#### 1.- hadoop - identificar el nodo que actúa como principal [[hdfs-hadoop/archivos/core-site.xml|core-site.xml]]
+#### 1.- hadoop - identificar el nodo que actúa como principal [[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]]
 - configuaracion identica para
 	- namenodes
 	- datanodes
 
-![[hdfs-hadoop/archivos/core-site.xml|core-site.xml]]
+![[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]]
 
 ```bash
 sudo nano ~/hadoop/etc/hadoop/core-site.xml
@@ -138,12 +138,12 @@ scp ~/hadoop/etc/hadoop/core-site.xml nodo04:~/hadoop/etc/hadoop/;
 cat  ~/hadoop/etc/hadoop/core-site.xml
 ```
 
-#### 2.- hadoop conf nodos [[hdfs-hadoop/archivos/hdfs-site.xml|hdfs-site.xml]]
+#### 2.- hadoop conf nodos [[cluster-HDFS/02-capa-hdfs-hadoop/archivos/hdfs-site.xml|hdfs-site.xml]]
 
 ##### 2.1  [[hdfs-site.xml-namenode]]
 ![[hdfs-site.xml-namenode]]
-![[hdfs-hadoop/archivos/workers|workers]]
-![[hdfs-hadoop/archivos/decomisados|decomisados]]
+![[cluster-HDFS/02-capa-hdfs-hadoop/archivos/workers|workers]]
+![[cluster-HDFS/02-capa-hdfs-hadoop/archivos/decomisados|decomisados]]
 
 ```bash
 # creamos una carpeta para guardar los datos de namenode

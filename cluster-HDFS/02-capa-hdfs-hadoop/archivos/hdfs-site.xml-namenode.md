@@ -1,12 +1,12 @@
 
 >
->>[!my-param]-   [[nodo-namenode]] [[hdfs-site.xml]] param
+>>[!my-param]-   [[nodo-namenode]] [[cluster-HDFS/02-capa-hdfs-hadoop/conf/datanode/hdfs-site.xml]] param
 >>
 >> | name | value | descripción |
 >> |-|-|-|
 >> |`dfs.namenode.name.dir`| `~/discogrande/namenode` |<ul><li>necesario para la persistencia de archivos</li><li>identifica la ruta donde se guardan los archivos</li><li>default se guarda en un archivo temporal, no hay persistencia</ul>|
 >
->>[!my-code]-  [[nodo-namenode]] [[hdfs-hadoop/archivos/hdfs-site.xml|hdfs-site.xml]] code
+>>[!my-code]-  [[nodo-namenode]] [[cluster-HDFS/02-capa-hdfs-hadoop/archivos/hdfs-site.xml|hdfs-site.xml]] code
 >>
 >>```xml
 >><?xml version="1.0" encoding="UTF-8"?>

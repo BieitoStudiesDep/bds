@@ -4,34 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "af4fdaff1e406909",
+        "id": "d941b43decef9f76",
         "type": "tabs",
         "children": [
           {
-            "id": "88e421697256bd14",
+            "id": "8ebd320c7ec74d79",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+                "file": "cluster-HDFS/02-capa-hdfs-hadoop/doc/hdf-hadoop-01-env.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "cca13bd6e540e85a",
+            "id": "f0b2b4ebe4b63b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hdfs-hadoop/archivos/hdfs-site.xml.md",
+                "file": "cluster-HDFS/01-configurar-nodos/configurar-nodos.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 891.5
   },
   "right": {
     "id": "757928fde36ad339",
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+                "file": "cluster-HDFS/01-configurar-nodos/configurar-nodos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+                "file": "cluster-HDFS/01-configurar-nodos/configurar-nodos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hdfs-hadoop/doc/hdf-hadoop-02-conf.md"
+                "file": "cluster-HDFS/01-configurar-nodos/configurar-nodos.md"
               }
             }
           }
@@ -158,46 +161,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "88e421697256bd14",
+  "active": "f0b2b4ebe4b63b6a",
   "lastOpenFiles": [
-    "hdfs-hadoop/doc/hdf-hadoop-01-env.md",
-    "hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
-    "hdfs-hadoop/img/hdfs-hadoop-web-overview-02.png",
-    "hdfs-hadoop/img/hdfs-hadoop-web-overview-01.png",
-    "hdfs-hadoop/img/hdfs-hadoop-web-datanodes.png",
-    "hdfs-hadoop/doc/capa-hdfs-en-hadoop-3.4.md",
-    "hdfs-hadoop/doc/configuración-capa-yarn.md",
-    "hdfs-hadoop/doc/nodo-datanode.md",
-    "hdfs-hadoop/archivos/hdfs-site.xml-datanode.md",
-    "hdfs-hadoop/archivos/hdfs-site.xml-namenode.md",
-    "hdfs-hadoop/archivos/hdfs-site.xml.md",
-    "hdfs-hadoop/archivos/core-site.xml.md",
-    "hdfs-hadoop/doc/nodo-namenode.md",
-    "hdfs-hadoop/doc/hdf-hadoop-00-nodos.md",
-    "hdfs-hadoop/archivos/decomisados.md",
-    "hdfs-hadoop/archivos/workers.md",
-    "hdfs-hadoop/conf/datanode/decomisados",
-    "hdfs-hadoop/conf/datanode/workers",
-    "hdfs-hadoop/conf/namenode/core-site.xml",
-    "hdfs-hadoop/conf/namenode/hdfs-site.xml",
-    "hdfs-hadoop/conf/datanode/hdfs-site.xml",
-    "hdfs-hadoop/conf/datanode/core-site.xml",
+    "cluster-HDFS/02-capa-hdfs-hadoop/doc/hdf-hadoop-00-nodos.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/doc/hdf-hadoop-01-env.md",
+    "cluster-HDFS/01-configurar-nodos/configurar-nodos.md",
+    "cluster-HDFS/01-configurar-nodos/doc/openssh.md",
+    "cluster-HDFS/01-configurar-nodos/doc/ssh-keygen.md",
+    "cluster-HDFS/01-configurar-nodos/doc/ip-static.md",
+    "cluster-HDFS/01-configurar-nodos/doc/install-java08.md",
+    "cluster-HDFS/01-configurar-nodos/doc/install-hadoop-3.4.0.md",
+    "cluster-HDFS/01-configurar-nodos/doc/etc-hosts.md",
+    "cluster-HDFS/01-configurar-nodos/doc/etc-hostname.md",
+    "cluster-HDFS/01-configurar-nodos/doc/disk.md",
+    "cluster-HDFS/01-configurar-nodos/doc",
     "cluster-HDFS/cluster-HDFS.md",
-    "hdfs-hadoop/conf/datanode",
-    "hdfs-hadoop/conf/namenode/datanode",
-    "hdfs-hadoop/conf/namenode",
-    "hdfs-hadoop/conf",
-    "hdfs-hadoop/doc/nodo-decomisado.md",
-    "cluster-HDFS/task/bda02-02-task/bda02-02-process.md",
-    "cluster-HDFS/task/bda02-02-task/bda02-02-task.md",
-    "vsc.md",
-    "cluster-HDFS/task/bda02-01-task/bda02-01-task.md",
-    "hdfs-hadoop/img/add-ssh-public-keys.png",
-    "nosql/doc/bases-de-datos-nosql.md",
-    "Profesores/Javier-Abellán-Ferrer.md",
-    "Profesor.md",
-    "hdfs-hadoop/doc.md",
-    "README.md",
-    "mongodb/mongodb.md"
+    "cluster-HDFS/03-capa-hdfs-yarn/configuración-capa-yarn.md",
+    "cluster-HDFS/03-capa-hdfs-yarn/capa-hdfs-yarn.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/capa-hdfs-en-hadoop-3.4.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/capa-hdfs-hadoop.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/archivos/hdfs-site.xml-namenode.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/archivos/hdfs-site.xml-datanode.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/archivos/hdfs-site.xml.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/archivos/decomisados.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml.md",
+    "cluster-HDFS/01-configurar-nodos",
+    "cluster-HDFS/02-capa-hdfs-hadoop",
+    "capa-hdfs-en-hadoop-3.4.pdf",
+    "cluster-HDFS/02-capa-hdfs-hadoop/doc/hdf-hadoop-02-conf.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/img/hdfs-hadoop-web-overview-02.png",
+    "cluster-HDFS/02-capa-hdfs-hadoop/img/hdfs-hadoop-web-overview-01.png",
+    "cluster-HDFS/02-capa-hdfs-hadoop/img/hdfs-hadoop-web-datanodes.png",
+    "cluster-HDFS/02-capa-hdfs-hadoop/doc/nodo-datanode.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/doc/nodo-namenode.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/archivos/workers.md",
+    "cluster-HDFS/02-capa-hdfs-hadoop/conf/datanode/decomisados",
+    "cluster-HDFS/02-capa-hdfs-hadoop/conf/datanode/workers",
+    "cluster-HDFS/02-capa-hdfs-hadoop/conf/namenode/core-site.xml",
+    "cluster-HDFS/02-capa-hdfs-hadoop/conf/namenode/hdfs-site.xml",
+    "cluster-HDFS/02-capa-hdfs-hadoop/conf/datanode/hdfs-site.xml",
+    "cluster-HDFS/02-capa-hdfs-hadoop/conf/datanode/core-site.xml",
+    "cluster-HDFS/02-capa-hdfs-hadoop/img/add-ssh-public-keys.png"
   ]
 }
