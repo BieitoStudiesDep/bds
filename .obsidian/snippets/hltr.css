@@ -1,0 +1,448 @@
+mark {
+  /* background-color:yellow !important; */
+}
+
+.htr-black {
+  background-color: black !important;
+}
+.htr-silver {
+  background-color: silver !important;
+}
+.htr-gray {
+  background-color: gray !important;
+}
+.htr-white {
+  background-color: white !important;
+}
+.htr-maroon {
+  background-color: maroon !important;
+}
+.htr-red {
+  background-color: red !important;
+}
+.htr-purple {
+  background-color: purple !important;
+}
+.htr-fuchsia {
+  background-color: fuchsia !important;
+}
+.htr-green {
+  background-color: green !important;
+}
+.htr-lime {
+  background-color: lime !important;
+}
+.htr-olive {
+  background-color: olive !important;
+}
+.htr-yellow {
+  background-color: yellow !important;
+}
+.htr-navy {
+  background-color: navy !important;
+}
+.htr-blue {
+  background-color: blue !important;
+}
+.htr-teal {
+  background-color: teal !important;
+}
+.htr-aqua {
+  background-color: aqua !important;
+}
+.htr-orange {
+  background-color: orange !important;
+}
+.htr-aliceblue {
+  background-color: aliceblue !important;
+}
+.htr-antiquewhite {
+  background-color: antiquewhite !important;
+}
+.htr-aquamarine {
+  background-color: aquamarine !important;
+}
+.htr-azure {
+  background-color: azure !important;
+}
+.htr-beige {
+  background-color: beige !important;
+}
+.htr-bisque {
+  background-color: bisque !important;
+}
+.htr-blanchedalmond {
+  background-color: blanchedalmond !important;
+}
+.htr-blueviolet {
+  background-color: blueviolet !important;
+}
+.htr-brown {
+  background-color: brown !important;
+}
+.htr-burlywood {
+  background-color: burlywood !important;
+}
+.htr-cadetblue {
+  background-color: cadetblue !important;
+}
+.htr-chartreuse {
+  background-color: chartreuse !important;
+}
+.htr-chocolate {
+  background-color: chocolate !important;
+}
+.htr-coral {
+  background-color: coral !important;
+}
+.htr-cornflowerblue {
+  background-color: cornflowerblue !important;
+}
+.htr-cornsilk {
+  background-color: cornsilk !important;
+}
+.htr-crimson {
+  background-color: crimson !important;
+}
+.htr-cyan {
+  background-color: cyan !important;
+}
+.htr-darkblue {
+  background-color: darkblue !important;
+}
+.htr-darkcyan {
+  background-color: darkcyan !important;
+}
+.htr-darkgoldenrod {
+  background-color: darkgoldenrod !important;
+}
+.htr-darkgray {
+  background-color: darkgray !important;
+}
+.htr-darkgreen {
+  background-color: darkgreen !important;
+}
+.htr-darkgrey {
+  background-color: darkgrey !important;
+}
+.htr-darkkhaki {
+  background-color: darkkhaki !important;
+}
+.htr-darkmagenta {
+  background-color: darkmagenta !important;
+}
+.htr-darkolivegreen {
+  background-color: darkolivegreen !important;
+}
+.htr-darkorange {
+  background-color: darkorange !important;
+}
+.htr-darkorchid {
+  background-color: darkorchid !important;
+}
+.htr-darkred {
+  background-color: darkred !important;
+}
+.htr-darksalmon {
+  background-color: darksalmon !important;
+}
+.htr-darkseagreen {
+  background-color: darkseagreen !important;
+}
+.htr-darkslateblue {
+  background-color: darkslateblue !important;
+}
+.htr-darkslategray {
+  background-color: darkslategray !important;
+}
+.htr-darkslategrey {
+  background-color: darkslategrey !important;
+}
+.htr-darkturquoise {
+  background-color: darkturquoise !important;
+}
+.htr-darkviolet {
+  background-color: darkviolet !important;
+}
+.htr-deeppink {
+  background-color: deeppink !important;
+}
+.htr-deepskyblue {
+  background-color: deepskyblue !important;
+}
+.htr-dimgray {
+  background-color: dimgray !important;
+}
+.htr-dimgrey {
+  background-color: dimgrey !important;
+}
+.htr-dodgerblue {
+  background-color: dodgerblue !important;
+}
+.htr-firebrick {
+  background-color: firebrick !important;
+}
+.htr-floralwhite {
+  background-color: floralwhite !important;
+}
+.htr-forestgreen {
+  background-color: forestgreen !important;
+}
+.htr-gainsboro {
+  background-color: gainsboro !important;
+}
+.htr-ghostwhite {
+  background-color: ghostwhite !important;
+}
+.htr-gold {
+  background-color: gold !important;
+}
+.htr-goldenrod {
+  background-color: goldenrod !important;
+}
+.htr-greenyellow {
+  background-color: greenyellow !important;
+}
+.htr-grey {
+  background-color: grey !important;
+}
+.htr-honeydew {
+  background-color: honeydew !important;
+}
+.htr-hotpink {
+  background-color: hotpink !important;
+}
+.htr-indianred {
+  background-color: indianred !important;
+}
+.htr-indigo {
+  background-color: indigo !important;
+}
+.htr-ivory {
+  background-color: ivory !important;
+}
+.htr-khaki {
+  background-color: khaki !important;
+}
+.htr-lavender {
+  background-color: lavender !important;
+}
+.htr-lavenderblush {
+  background-color: lavenderblush !important;
+}
+.htr-lawngreen {
+  background-color: lawngreen !important;
+}
+.htr-lemonchiffon {
+  background-color: lemonchiffon !important;
+}
+.htr-lightblue {
+  background-color: lightblue !important;
+}
+.htr-lightcoral {
+  background-color: lightcoral !important;
+}
+.htr-lightcyan {
+  background-color: lightcyan !important;
+}
+.htr-lightgoldenrodyellow {
+  background-color: lightgoldenrodyellow !important;
+}
+.htr-lightgray {
+  background-color: lightgray !important;
+}
+.htr-lightgreen {
+  background-color: lightgreen !important;
+}
+.htr-lightgrey {
+  background-color: lightgrey !important;
+}
+.htr-lightpink {
+  background-color: lightpink !important;
+}
+.htr-lightsalmon {
+  background-color: lightsalmon !important;
+}
+.htr-lightseagreen {
+  background-color: lightseagreen !important;
+}
+.htr-lightskyblue {
+  background-color: lightskyblue !important;
+}
+.htr-lightslategray {
+  background-color: lightslategray !important;
+}
+.htr-lightslategrey {
+  background-color: lightslategrey !important;
+}
+.htr-lightsteelblue {
+  background-color: lightsteelblue !important;
+}
+.htr-lightyellow {
+  background-color: lightyellow !important;
+}
+.htr-limegreen {
+  background-color: limegreen !important;
+}
+.htr-linen {
+  background-color: linen !important;
+}
+.htr-magenta {
+  background-color: magenta !important;
+}
+.htr-mediumaquamarine {
+  background-color: mediumaquamarine !important;
+}
+.htr-mediumblue {
+  background-color: mediumblue !important;
+}
+.htr-mediumorchid {
+  background-color: mediumorchid !important;
+}
+.htr-mediumpurple {
+  background-color: mediumpurple !important;
+}
+.htr-mediumseagreen {
+  background-color: mediumseagreen !important;
+}
+.htr-mediumslateblue {
+  background-color: mediumslateblue !important;
+}
+.htr-mediumspringgreen {
+  background-color: mediumspringgreen !important;
+}
+.htr-mediumturquoise {
+  background-color: mediumturquoise !important;
+}
+.htr-mediumvioletred {
+  background-color: mediumvioletred !important;
+}
+.htr-midnightblue {
+  background-color: midnightblue !important;
+}
+.htr-mintcream {
+  background-color: mintcream !important;
+}
+.htr-mistyrose {
+  background-color: mistyrose !important;
+}
+.htr-moccasin {
+  background-color: moccasin !important;
+}
+.htr-navajowhite {
+  background-color: navajowhite !important;
+}
+.htr-oldlace {
+  background-color: oldlace !important;
+}
+.htr-olivedrab {
+  background-color: olivedrab !important;
+}
+.htr-orangered {
+  background-color: orangered !important;
+}
+.htr-orchid {
+  background-color: orchid !important;
+}
+.htr-palegoldenrod {
+  background-color: palegoldenrod !important;
+}
+.htr-palegreen {
+  background-color: palegreen !important;
+}
+.htr-paleturquoise {
+  background-color: paleturquoise !important;
+}
+.htr-palevioletred {
+  background-color: palevioletred !important;
+}
+.htr-papayawhip {
+  background-color: papayawhip !important;
+}
+.htr-peachpuff {
+  background-color: peachpuff !important;
+}
+.htr-peru {
+  background-color: peru !important;
+}
+.htr-pink {
+  background-color: pink !important;
+}
+.htr-plum {
+  background-color: plum !important;
+}
+.htr-powderblue {
+  background-color: powderblue !important;
+}
+.htr-rosybrown {
+  background-color: rosybrown !important;
+}
+.htr-royalblue {
+  background-color: royalblue !important;
+}
+.htr-saddlebrown {
+  background-color: saddlebrown !important;
+}
+.htr-salmon {
+  background-color: salmon !important;
+}
+.htr-sandybrown {
+  background-color: sandybrown !important;
+}
+.htr-seagreen {
+  background-color: seagreen !important;
+}
+.htr-seashell {
+  background-color: seashell !important;
+}
+.htr-sienna {
+  background-color: sienna !important;
+}
+.htr-skyblue {
+  background-color: skyblue !important;
+}
+.htr-slateblue {
+  background-color: slateblue !important;
+}
+.htr-slategray {
+  background-color: slategray !important;
+}
+.htr-slategrey {
+  background-color: slategrey !important;
+}
+.htr-snow {
+  background-color: snow !important;
+}
+.htr-springgreen {
+  background-color: springgreen !important;
+}
+.htr-steelblue {
+  background-color: steelblue !important;
+}
+.htr-tan {
+  background-color: tan !important;
+}
+.htr-thistle {
+  background-color: thistle !important;
+}
+.htr-tomato {
+  background-color: tomato !important;
+}
+.htr-transparent {
+  background-color: transparent !important;
+}
+.htr-turquoise {
+  background-color: turquoise !important;
+}
+.htr-violet {
+  background-color: violet !important;
+}
+.htr-wheat {
+  background-color: wheat !important;
+}
+.htr-whitesmoke {
+  background-color: whitesmoke !important;
+}
+.htr-yellowgreen {
+  background-color: yellowgreen !important;
+}

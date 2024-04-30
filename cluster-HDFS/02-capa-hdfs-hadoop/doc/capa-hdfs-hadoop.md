@@ -13,11 +13,11 @@ subChildren:
   - https://youtu.be/5Mp164m1__Q
 pdf: 
 files:
-  - "[[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]]"
-  - "[[cluster-HDFS/02-capa-hdfs-hadoop/archivos/decomisados|decomisados]]"
+  - "[[core-site.xml|core-site.xml]]"
+  - "[[decomisados|decomisados]]"
   - "[[hdfs-site.xml-namenode]]"
   - "[[hdfs-site.xml-datanode]]"
-  - "[[cluster-HDFS/02-capa-hdfs-hadoop/archivos/workers|workers]]"
+  - "[[workers|workers]]"
 pre:
   - "[[hdfs-nodos-conf]]"
 next:

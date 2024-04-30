@@ -2,6 +2,8 @@
   "accentColor": "",
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "callauts"
+    "callauts",
+    "hltr",
+    "code"
   ]
 }

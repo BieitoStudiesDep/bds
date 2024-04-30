@@ -1,11 +1,17 @@
+> archivo`core-site.xml` en los nodos datanode y namenode
 >
 >>[!my-desc]-  description
 >>
 >> - `hdfs-site.xml`
 >>
 >> - archivo donde configuramos el nodo01 como namenode
->> - `dfs.namenode.name.dir`
->> - es necesario definir una ruta para la persistencia de los archivos
+>> - replicarlo en todos los nodos
+>> - Todos los nodos deben saber cual es el nodo principal
+>>`sudo nano ~/hadoop/etc/hadoop/capacity-scheduler.xml`
+>> params:
+>>> - `dfs.namenode.name.dir`
+>>> - es necesario definir una ruta para la persistencia de los archivos
+>>
 >
 >>[!my-param]-  parámetros
 >>
@@ -13,7 +19,7 @@
 >> |-|-|-|
 >> |`fs.defaultFS`| `hdfs://nodo01:9000` |<ul><li>indicamos la ruta hdfs </li><li>al nodo que tendrá la función de [[nodo-namenode]] </li><li>por el puerto :9000</ul>|
 >
->>[!my-code]-  [[nodo-namenode]] y [[nodo-datanode]] [[cluster-HDFS/02-capa-hdfs-hadoop/archivos/core-site.xml|core-site.xml]] code
+>>[!my-code]-  [[nodo-namenode]] y [[nodo-datanode]] [[core-site.xml|core-site.xml]] code
 >>
 >> ```xml
 >> <configuration>

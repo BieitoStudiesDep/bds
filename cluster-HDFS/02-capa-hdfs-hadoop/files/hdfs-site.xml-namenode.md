@@ -1,12 +1,24 @@
 
+> archivo`hdfs-site.xml` en los nodos namenode
 >
->>[!my-param]-   [[nodo-namenode]] [[cluster-HDFS/02-capa-hdfs-hadoop/conf/datanode/hdfs-site.xml]] param
+>>[!my-desc]-  description hdfs-site.xml
+>>
+>> - `hdfs-site.xml`
+>>
+>> - archivo donde configuramos las configuration de hadoop de los nodos
+>> - hay configuraciones asociadas a los [[nodo-namenode]] y a los [[nodo-datanode]]
+>> - podíamos configurar un único archivo 
+>> - hadoop se encarga de 
+>> 	- si el nodo es tipo namenode solo le las propiedades de su tipo
+>> 	- si el nodo es tipo datanode solo le las propiedades de su tipo 
+>
+>>[!my-param]-  param
 >>
 >> | name | value | descripción |
 >> |-|-|-|
 >> |`dfs.namenode.name.dir`| `~/discogrande/namenode` |<ul><li>necesario para la persistencia de archivos</li><li>identifica la ruta donde se guardan los archivos</li><li>default se guarda en un archivo temporal, no hay persistencia</ul>|
 >
->>[!my-code]-  [[nodo-namenode]] [[cluster-HDFS/02-capa-hdfs-hadoop/archivos/hdfs-site.xml|hdfs-site.xml]] code
+>>[!my-code]-  code
 >>
 >>```xml
 >><?xml version="1.0" encoding="UTF-8"?>
