@@ -1,0 +1,153 @@
+Fecha de entrada en vigencia: 4 de enero de 2021 (versiones archivadas)
+
+Pol¡tica de privacidad de WhatsApp
+Si vives en la Regi¢n Europea, WhatsApp Ireland Limited te proporciona los Servicios de conformidad con estas Condiciones del servicio y la Pol¡tica de privacidad.
+
+Si vives en el Reino Unido, WhatsApp LLC te proporciona los Servicios de conformidad con estas Condiciones del servicio y la Pol¡tica de privacidad.
+
+Informaci¢n legal de WhatsApp
+Si vives fuera de la Regi¢n Europea o el Reino Unido, WhatsApp LLC ("WhatsApp", "nuestro/a[s]", "nosotros" o "nos") te proporciona nuestros Servicios de conformidad con estas Condiciones del servicio y la Pol¡tica de privacidad.
+
+En nuestra Pol¡tica de privacidad ("Pol¡tica de privacidad"), explicamos las pr cticas que llevamos a cabo con los datos, incluida la informaci¢n que tratamos para proporcionar nuestros Servicios.
+
+Por ejemplo, en nuestra Pol¡tica de privacidad hablamos sobre la informaci¢n que recopilamos y qu‚ implicaciones tiene para ti. Tambi‚n explicamos las medidas que tomamos para proteger tu privacidad, como dise¤ar nuestros Servicios de modo que no almacenemos los mensajes entregados y proporcionarte el control para elegir con qui‚n te comunicas en nuestros Servicios.
+
+Somos una de las empresas de Meta. A continuaci¢n, dentro de esta Pol¡tica de privacidad, puedes obtener m s informaci¢n sobre las formas en las que compartimos informaci¢n con toda la familia de empresas.
+
+Esta Pol¡tica de privacidad se aplica a todos nuestros Servicios a menos que se especifique lo contrario.
+
+Consulta tambi‚n las Condiciones del servicio de WhatsApp (?Condiciones?), donde se describen las condiciones que rigen el uso de nuestros Servicios y el modo en el que los proveemos.
+
+Volver al comienzo
+
+Actualizaciones clave
+El respeto a tu privacidad se encuentra codificado en nuestro ADN. Desde que iniciamos WhatsApp, hemos desarrollado nuestros Servicios con s¢lidos principios de privacidad en mente. En las Condiciones del servicio y la Pol¡tica de privacidad actualizadas encontrar s lo siguiente:
+
+Informaci¢n adicional sobre c¢mo tratamos tus datos. Las Condiciones y la Pol¡tica de privacidad actualizadas proporcionan m s informaci¢n sobre c¢mo tratamos tus datos y nuestro compromiso con la privacidad. Por ejemplo, incluimos informaci¢n adicional sobre las caracter¡sticas y funciones m s recientes de los productos, y sobre c¢mo tratamos tus datos desde un punto de vista de la protecci¢n, seguridad e integridad, e incluimos m s enlaces directos a los ajustes de usuario, a art¡culos del Centro de ayuda y a c¢mo puedes gestionar tu informaci¢n.
+Mejor comunicaci¢n con las empresas. Muchas empresas conf¡an en WhatsApp para comunicarse con sus clientes. Trabajamos con empresas que utilizan Meta, o terceros, para facilitar el almacenamiento y para administrar mejor sus comunicaciones contigo en WhatsApp.
+Facilitar la comunicaci¢n. Como parte de las empresas de Meta, WhatsApp se asocia a Meta para ofrecer experiencias y una integraci¢n con la familia de aplicaciones y productos de Meta.
+Volver al comienzo
+
+Informaci¢n que recopilamos
+WhatsApp debe recibir o recopilar informaci¢n para operar, proporcionar, mejorar, entender, personalizar, respaldar y promocionar nuestros Servicios, cuando usas o instalas nuestros Servicios, o accedes a ellos.
+
+El tipo de informaci¢n que recibimos y recopilamos depende de la forma en la que usas nuestros Servicios. Requerimos informaci¢n determinada para proporcionar nuestros Servicios y si no la recopilamos, no podremos proveerlos. Por ejemplo, debes proporcionar tu n£mero de tel‚fono m¢vil para crear una cuenta con el fin de usar nuestros Servicios.
+
+En nuestros Servicios, incluimos funcionalidades opcionales que, si las eliges, tendremos que recopilar informaci¢n adicional para proporcionarte dichas funcionalidades. Si corresponde, te notificaremos sobre la recopilaci¢n de informaci¢n. Si decides no proporcionar la informaci¢n requerida para una funci¢n, no podr s utilizarla. Por ejemplo, no puedes compartir tu ubicaci¢n con tus contactos si no nos permites recopilar tus datos de ubicaci¢n desde tu dispositivo. Puedes administrar los permisos a trav‚s del men£ de ajustes tanto en dispositivos con Android como en los dispositivos iOS.
+
+Informaci¢n que proporcionas
+Informaci¢n de tu cuenta. Cuando creas una cuenta de WhatsApp, debes proporcionar tu n£mero de tel‚fono m¢vil junto con cierta informaci¢n b sica (incluido un nombre de perfil de tu elecci¢n). Si no nos proporcionas esta informaci¢n, no podr s crear una cuenta para usar nuestros Servicios. Puedes agregar otra informaci¢n a tu cuenta, como la foto del perfil e informaci¢n sobre ti.
+Tus mensajes. Durante la prestaci¢n ordinaria de nuestros Servicios, no conservamos tus mensajes, sino que se almacenan en tu dispositivo (no se guardan generalmente en nuestros servidores). Una vez que se entregan tus mensajes, se eliminan de nuestros servidores. En los siguientes ejemplos, se describen situaciones en las que podemos almacenar tus mensajes hasta que se entreguen:
+Mensajes no entregados. Si un mensaje no se puede entregar de inmediato (por ejemplo, si el destinatario no tiene conexi¢n a Internet), lo conservamos de forma cifrada en nuestros servidores durante un plazo m ximo de 30 d¡as mientras intentamos entregarlo. Si el mensaje no se entrega despu‚s de 30 d¡as, lo eliminamos.
+Reenv¡o de archivos multimedia. Si un usuario reenv¡a archivos multimedia en un mensaje, los almacenamos temporalmente de forma cifrada en nuestros servidores para garantizar una entrega m s efectiva de reenv¡os adicionales.
+
+Ofrecemos cifrado de extremo a extremo en nuestros Servicios. Con el cifrado de extremo a extremo, tus mensajes se cifran de modo que ni nosotros ni terceros podemos leerlos. Obt‚n m s informaci¢n sobre el cifrado de extremo a extremo y c¢mo las empresas se comunican contigo en WhatsApp.
+Tus conexiones. Puedes utilizar la funci¢n de carga de contactos y, de conformidad con la legislaci¢n aplicable, proporcionarnos los n£meros de tel‚fono que figuran en tu libreta de contactos de forma habitual, incluidos los de los usuarios de nuestros Servicios y tus otros contactos. Si alguno de tus contactos a£n no utiliza nuestros Servicios, administraremos esta informaci¢n para ti de modo que se garantice que no podamos identificar a esos contactos. Obt‚n m s informaci¢n sobre nuestra funci¢n de carga de contactos aqu¡. Puedes crear, unirte o recibir la invitaci¢n para unirte a grupos o listas de difusi¢n, los cuales quedar n asociados a la informaci¢n de tu cuenta. T£ asignas un nombre a tus grupos y tambi‚n puedes agregarles una foto del perfil o una descripci¢n.
+Informaci¢n sobre estados. Puedes proporcionarnos un estado si decides incluir uno en tu cuenta. Obt‚n m s informaci¢n sobre c¢mo usar los estados en Android, iPhone o KaiOS.
+Datos de pagos y transacciones. Si usas nuestros servicios de pagos, o usas nuestros Servicios para compras u otras transacciones financieras, trataremos informaci¢n adicional sobre ti, incluida la informaci¢n sobre transacciones y cuentas de pagos. La informaci¢n de transacciones y cuentas de pagos incluye los datos necesarios para completar la transacci¢n (por ejemplo, el m‚todo de pago, los detalles de env¡o y el importe de la transacci¢n). Si usas nuestros servicios de pagos disponibles en tu pa¡s o territorio, encontrar s la descripci¢n de nuestras pr cticas de privacidad en la pol¡tica de privacidad de pagos correspondiente.
+Soporte t‚cnico y otros tipos de comunicaci¢n. Cuando nos contactas para solicitar soporte t‚cnico o te comunicas con nosotros de otro modo, es posible que nos proporciones informaci¢n relacionada con el uso que haces de nuestros Servicios, incluidas las copias de tus mensajes, cualquier otra informaci¢n que consideres de ayuda y tu informaci¢n de contacto (como una direcci¢n de correo electr¢nico). Por ejemplo, puedes enviarnos un correo electr¢nico con informaci¢n relacionada con el rendimiento de la aplicaci¢n u otros problemas que tengas.
+
+Informaci¢n recopilada autom ticamente
+Informaci¢n sobre uso y registros. Recopilamos informaci¢n sobre tu actividad en nuestros Servicios, como datos relativos al servicio, el diagn¢stico y el rendimiento. Esto incluye informaci¢n sobre tu actividad (incluido c¢mo usas nuestros Servicios, los ajustes que elegiste, c¢mo interact£as con otros por medio de ellos [incluido cuando interact£as con una empresa] y el tiempo, la frecuencia y la duraci¢n de tus actividades e interacciones), archivos de registro, as¡ como registros e informes de diagn¢stico, error, sitio web y rendimiento. Tambi‚n incluye informaci¢n sobre el momento en el que te registraste para usar nuestros Servicios, las opciones que usas, como mensajer¡a, llamadas, estados, grupos (incluidos el nombre, la foto y la descripci¢n del grupo), las opciones de empresa o pagos, la foto del perfil, informaci¢n sobre ti mismo, si te encuentras en l¡nea, as¡ como la £ltima vez que usaste nuestros Servicios (tu estado de £ltima conexi¢n) y la £ltima vez que actualizaste los datos de tu info.
+Informaci¢n sobre el dispositivo y la conexi¢n. Recopilamos informaci¢n espec¡fica relacionada con el dispositivo y la conexi¢n cuando instalas o usas nuestros Servicios, o bien cuando accedes a ellos. Esto incluye informaci¢n como el modelo del hardware, el sistema operativo, el nivel de carga de la bater¡a, la potencia de la se¤al, la versi¢n de la aplicaci¢n, el navegador, la red m¢vil, la conexi¢n (incluido el n£mero de tel‚fono, el operador de telefon¡a m¢vil o proveedor de servicios de Internet), el idioma y la zona horaria, la direcci¢n IP, datos sobre las operaciones de dispositivos e identificadores (como identificadores £nicos para los productos de las empresas de Meta asociados al mismo dispositivo o a la misma cuenta).
+Informaci¢n de ubicaci¢n. Recopilamos y usamos informaci¢n de ubicaci¢n precisa de tu dispositivo con tu permiso cuando eliges usar opciones relacionadas con la ubicaci¢n, como cuando decides compartir tu ubicaci¢n con tus contactos o ver ubicaciones cercanas o que otros contactos compartieron contigo. Existen determinados ajustes que est n relacionados con la informaci¢n de ubicaci¢n que puedes encontrar en la configuraci¢n de tu dispositivo o en los ajustes en la aplicaci¢n, como la opci¢n para compartir ubicaci¢n. Aunque no uses nuestras funciones relacionadas con la ubicaci¢n, usamos la direcci¢n IP y otra informaci¢n, como los c¢digos de  rea de n£meros de tel‚fono, para estimar cu l es tu ubicaci¢n general (por ejemplo, ciudad y pa¡s). Tambi‚n usamos la informaci¢n de tu ubicaci¢n con fines de diagn¢stico y resoluci¢n de problemas.
+Cookies. Usamos cookies para operar y proporcionar nuestros Servicios, adem s de proporcionarte nuestros Servicios basados en Internet, mejorar tus experiencias, entender c¢mo se usan nuestros Servicios y personalizarlos. Por ejemplo, usamos cookies para proporcionar nuestros Servicios para escritorio e Internet y otros servicios basados en Internet. Tambi‚n podemos usar las cookies para entender cu les son los art¡culos m s populares de nuestro Centro de ayuda con el fin de mostrarte el contenido relevante relacionado con nuestros Servicios. Adicionalmente, podemos usar cookies para recordar las opciones que elegiste, como las preferencias de idioma, a fin de proporcionarte una experiencia m s segura y, de otro modo, para personalizar nuestros Servicios seg£n tus intereses. Obt‚n m s informaci¢n sobre c¢mo usamos las cookies para proporcionarte nuestros Servicios.
+
+Volver al comienzo
+
+Informaci¢n de terceros
+Informaci¢n que otros proporcionan sobre ti. Recibimos informaci¢n sobre ti de otros usuarios. Por ejemplo, cuando otros usuarios que conoces usan nuestros Servicios, pueden proporcionar tu n£mero de tel‚fono, nombre y otra informaci¢n (como la que se encuentra en la libreta de contactos de su tel‚fono m¢vil), as¡ como t£ puedes proporcionar la de ellos. Tambi‚n es posible que te env¡en mensajes a ti, a los grupos a los que pertenezcas o que te llamen. Requerimos a estos usuarios que tengan derechos leg¡timos para recopilar, usar y compartir tu informaci¢n antes de proporcionarnos cualquier tipo de dato.
+Debes saber que, en general, cualquier usuario puede realizar capturas de pantalla de tus conversaciones o mensajes o grabar tus llamadas con ellos y enviarlas a WhatsApp o a alguien m s, adem s de publicarlas en otra plataforma.
+Reportes de usuarios. As¡ como puedes reportar a otros usuarios, estos o terceros pueden decidir reportarnos tus interacciones y mensajes con ellos u otros sobre nuestros Servicios, por ejemplo, a fin de reportar posibles infracciones de nuestras Condiciones o pol¡ticas. Cuando se realiza un reporte, recopilamos informaci¢n tanto del usuario que reporta como del usuario reportado. Para obtener m s informaci¢n sobre qu‚ sucede cuando se reporta a un usuario, consulta Funciones de seguridad y protecci¢n avanzadas.
+Empresas en WhatsApp. Es posible que las empresas con las que interact£as por medio de nuestros Servicios nos brinden informaci¢n sobre las interacciones que mantienen contigo. Por lo tanto, les solicitamos que act£en de conformidad con la legislaci¢n aplicable cuando lo hacen.
+Cuando te comunicas mediante mensajes con una empresa en WhatsApp, recuerda que el contenido que compartes puede estar visible para varias personas en esa empresa. Adem s, puede que algunas empresas trabajen con terceros proveedores de servicios (que pueden incluir Meta) para administrar mejor la comunicaci¢n con sus clientes Por ejemplo, una empresa puede permitir el acceso de dicho proveedor de servicios de terceros a sus comunicaciones a fin de enviarlas, almacenarlas, leerlas, administrarlas o procesarlas para la empresa. Para entender c¢mo una empresa trata tu informaci¢n, incluido c¢mo podr¡a compartir tu informaci¢n con terceros o Meta, te sugerimos que revises la pol¡tica de privacidad de la empresa o que te contactes con ella directamente.
+Proveedores de servicios de terceros. Trabajamos con proveedores de servicios de terceros y otras empresas de Meta para que nos ayuden a operar, proporcionar, mejorar, entender, personalizar, respaldar y promocionar nuestros Servicios. Por ejemplo, trabajamos con ellos para distribuir nuestras aplicaciones; proporcionar sistemas de infraestructura t‚cnica y f¡sica, de entrega y otros; proporcionar soporte operativo, de ingenier¡a y de ciberseguridad; proporcionar informaci¢n sobre ubicaci¢n, mapas y lugares; procesar pagos; ayudarnos a entender c¢mo las personas usan nuestros Servicios; promocionar nuestros Servicios; ayudarte a conectar con las empresas que usan nuestros Servicios; realizar encuestas e investigaciones; garantizar la seguridad, la protecci¢n y la integridad; y contribuir con el servicio de atenci¢n al cliente. Es posible que estas empresas nos proporcionen informaci¢n sobre ti en determinadas circunstancias. Por ejemplo, las tiendas de aplicaciones pueden proporcionarnos informes para ayudarnos a diagnosticar y solucionar problemas con el servicio.
+En la secci¢n "C¢mo trabajamos con otras empresas de Meta", encontrar s m s informaci¢n sobre c¢mo WhatsApp recopila y comparte informaci¢n con las otras empresas de Meta.
+Servicios de terceros. Te permitimos usar nuestros Servicios en relaci¢n con servicios de terceros y productos de las empresas de Meta. Si usas nuestros Servicios junto con dichos servicios de terceros o los productos de las empresas de Meta, es posible que nos proporcionen informaci¢n sobre ti, por ejemplo, si usas el bot¢n para compartir contenido de WhatsApp en un servicio de noticias a fin de compartir un art¡culo con tus contactos, grupos o listas de difusi¢n de la plataforma en nuestros Servicios, o bien si decides acceder a nuestros Servicios por medio de una promoci¢n realizada por el operador de telefon¡a m¢vil o el proveedor del dispositivo. Ten en cuenta que, cuando uses servicios de terceros o productos de las empresas de Meta, el uso que hagas de ellos se regir  seg£n sus propias condiciones y pol¡ticas de privacidad.
+Volver al comienzo
+
+C¢mo usamos la informaci¢n
+Usamos la informaci¢n que tenemos (sujeta a las elecciones que hagas y la legislaci¢n aplicable) para operar, proporcionar, mejorar, entender, personalizar, respaldar y promocionar nuestros Servicios. As¡ es como lo hacemos:
+
+Nuestros Servicios. Usamos la informaci¢n que tenemos para operar y proporcionar nuestros Servicios, que incluyen proporcionarte soporte t‚cnico, completar compras o transacciones, mejorar, corregir y personalizar nuestros Servicios, as¡ como conectarlos con los productos de las empresas de Meta que uses. Tambi‚n usamos la informaci¢n que tenemos para entender c¢mo se usan nuestros Servicios, los evaluamos y mejoramos, realizamos investigaciones, desarrollamos y probamos nuevos servicios y funciones; adem s, llevamos a cabo actividades destinadas a resolver problemas. Tambi‚n usamos tu informaci¢n para responderte cuando te pones en contacto con nosotros.
+Protecci¢n, seguridad e integridad. La protecci¢n, la seguridad y la integridad son la parte integral de nuestros Servicios. Usamos la informaci¢n que tenemos para verificar cuentas y actividades, combatir conductas da¤inas, proteger a los usuarios de las malas experiencias y el spam, y fomentar la protecci¢n, la seguridad y la integridad tanto dentro como fuera de nuestros Servicios, como, por ejemplo, mediante la investigaci¢n de actividades sospechosas o incumplimientos de nuestras Condiciones y pol¡ticas, as¡ como para garantizar que nuestros Servicios se utilicen de manera legal. Para obtener m s informaci¢n, consulta la secci¢n Legislaci¢n, nuestros derechos y protecci¢n que se encuentra a continuaci¢n.
+Comunicaciones acerca de nuestros Servicios y las empresas de Meta. Usamos la informaci¢n que tenemos para comunicarnos contigo respecto a nuestros Servicios, informarte sobre nuestras condiciones y pol¡ticas y mantenerte al tanto de cualquier actualizaci¢n importante. Es posible que te proporcionemos materiales de marketing relativos a nuestros Servicios y a los de las empresas de Meta.
+No publicamos banners publicitarios de terceros. Todav¡a no permitimos publicidad por parte de terceros en nuestros Servicios. No tenemos intenci¢n de hacerlo, pero si alguna vez ocurre, actualizaremos esta Pol¡tica de privacidad.
+Interacciones de la empresa. Permitimos que t£ y los terceros, como las empresas, puedan comunicarse e interactuar a trav‚s de nuestros Servicios, como la opci¢n de cat logos para empresas en WhatsApp, donde puedes explorar los productos y servicios, as¡ como hacer pedidos. Las empresas pueden enviarte notificaciones de transacciones, citas y env¡os, actualizaciones de productos y servicios, as¡ como de marketing. Por ejemplo, es posible que recibas informaci¢n sobre el estado de un vuelo pr¢ximo, un recibo de un art¡culo que compraste o una notificaci¢n sobre una entrega que va a efectuarse. Los mensajes que recibas de una empresa pueden incluir ofertas de algo que podr¡a interesarte. No queremos ofrecerte una experiencia en la que recibas spam. Por esta raz¢n, al igual que con todos tus mensajes, te damos la posibilidad de administrar estas comunicaciones y siempre respetaremos las decisiones que tomes al respecto.
+Volver al comienzo
+
+Informaci¢n que t£ y nosotros compartimos
+T£ compartes tu informaci¢n mientras usas nuestros Servicios y te comunicas por medio de ellos, y nosotros la compartimos para operar, proporcionar, mejorar, entender, personalizar, respaldar y promocionar nuestros Servicios.
+
+Enviar tu informaci¢n a aquellos que eliges para comunicarte. T£ compartes tu informaci¢n (incluidos mensajes) mientras usas nuestros Servicios y te comunicas por medio de ellos.
+Informaci¢n asociada a tu cuenta. Tu n£mero de tel‚fono, nombre y foto del perfil, la informaci¢n sobre ti, tu £ltima conexi¢n y las confirmaciones de lectura est n a disposici¢n de cualquiera que use nuestros Servicios. No obstante, puedes cambiar los ajustes de dichos Servicios para administrar determinada informaci¢n disponible para otros usuarios, incluidas las empresas, con los que te comunicas.
+Tus contactos y otros. Los usuarios, incluidas las empresas, con los que te comunicas pueden almacenar o volver a compartir tu informaci¢n (incluidos tu n£mero de tel‚fono o tus mensajes) con otras personas tanto dentro como fuera de nuestros Servicios. Mediante los ajustes y la opci¢n de ?bloqueo? de nuestros Servicios, puedes administrar con qui‚n te comunicas en nuestros Servicios y determinada informaci¢n que compartes.
+Empresas en WhatsApp. Ofrecemos servicios espec¡ficos a empresas, como proporcionarles estad¡sticas con respecto al uso de nuestros Servicios.
+Proveedores de servicios de terceros. Trabajamos con proveedores de servicios de terceros y otras empresas de Meta para que nos ayuden a operar, proporcionar, mejorar, entender, personalizar, respaldar y promocionar nuestros Servicios. Trabajamos con estas empresas para respaldar nuestros Servicios, por ejemplo, para proporcionar sistemas de infraestructura t‚cnica, de entrega y otros; promover nuestros Servicios; realizar encuestas e investigaciones para nosotros; garantizar la protecci¢n, seguridad e integridad de los usuarios y otros; as¡ como brindar asistencia a trav‚s del servicio de atenci¢n al cliente. Cuando compartimos informaci¢n con proveedores de servicios de terceros y otras empresas de Meta que act£an como tales, les exigimos que respeten nuestras instrucciones y cumplan con nuestras condiciones en el momento de usar tu informaci¢n en nuestro nombre.
+Servicios de terceros. Cuando t£ u otros usan servicios de terceros u otros productos de las empresas de Meta integrados con nuestros Servicios, es posible que dichos servicios de terceros reciban informaci¢n sobre el contenido que t£ u otros comparten con ellos. Por ejemplo, si usas un servicio de copia de seguridad de datos integrado con nuestros Servicios (como iCloud o una cuenta de Google), estos recibir n la informaci¢n que les compartas, como tus mensajes de WhatsApp. Si interact£as con un servicio de terceros o con otroproducto de una empresa de Meta vinculado a trav‚s de nuestros Servicios, como cuando usas el reproductor en la aplicaci¢n para reproducir contenido de una plataforma de terceros, es posible que dicho tercero o producto de una empresa de Meta reciba informaci¢n sobre ti, como tu direcci¢n IP y el hecho de que eres usuario de WhatsApp. Ten en cuenta que, cuando uses servicios de terceros u otros productos de las empresas de Meta, el uso que hagas de ellos se regir  seg£n sus propias condiciones y pol¡ticas de privacidad.
+Volver al comienzo
+
+C¢mo trabajamos en conjunto con otras empresas de Meta
+Como parte de las empresas de Meta, WhatsApp recibe informaci¢n de las otras empresas de Meta, as¡ como tambi‚n comparte informaci¢n con ellas (consulta aqu¡). Ambas partes podemos usar la informaci¢n que recibimos para operar, proporcionar, mejorar, entender, personalizar, respaldar y promocionar nuestros Servicios y sus ofertas, incluidos los productos de las empresas de Meta. Esto incluye lo siguiente:
+
+Ayudar a mejorar la infraestructura y los sistemas de entrega.
+Entender c¢mo se usan nuestros Servicios o los de ellas.
+Promover la seguridad, protecci¢n e integridad a trav‚s de los productos de las empresas de Meta, por ejemplo, sistemas de seguridad y de lucha contra spam, amenazas, abuso o actividades que infrinjan las leyes.
+Mejorar sus servicios y tus experiencias al usarlos, por ejemplo, hacer sugerencias para ti (por ejemplo, de conexiones de amigos o grupos o de contenido interesante), personalizar funciones y contenido, ayudarte a completar compras y transacciones, y mostrarte publicidad y ofertas relevantes a trav‚s de los productos de las empresas de Meta.
+Proporcionar integraciones que te permitan conectar tus experiencias de WhatsApp con otros productos de las empresas de Meta. Por ejemplo, permitirte conectarte con tu cuenta de Facebook Pay para pagar productos o servicios en WhatsApp o permitirte chatear con tus amigos a trav‚s de otros productos de las empresas de Meta, como Portal, mediante tu cuenta de WhatsApp.
+Obt‚n m s informaci¢n sobre otras empresas de Meta y sus pr cticas de privacidad en sus pol¡ticas de privacidad.
+
+Volver al comienzo
+
+Cesi¢n, cambio de control y transferencia
+En caso de que estemos involucrados en una fusi¢n, adquisici¢n, reestructuraci¢n, quiebra o venta de la totalidad o una parte de nuestros activos, compartiremos con las entidades sucesoras o los nuevos propietarios tu informaci¢n relacionada con la transacci¢n, en virtud de la legislaci¢n de protecci¢n de datos aplicable.
+
+Volver al comienzo
+
+Administraci¢n y retenci¢n de tu informaci¢n
+Puedes acceder a tu informaci¢n o solicitar su portabilidad por medio de la opci¢n Solicitar info. de mi cuenta en la aplicaci¢n (disponible en Ajustes &gt; Cuenta). Si usas iPhone, puedes conocer c¢mo acceder a tu informaci¢n, administrarla y eliminarla en nuestros art¡culos del Centro de ayuda de iPhone. Si usas Android, puedes conocer c¢mo accedera tu informaci¢n, administrarla y eliminarla en nuestros art¡culos del Centro de ayuda de Android.
+
+Almacenamos informaci¢n durante el tiempo que sea necesario para los fines que se identifican en esta Pol¡tica de privacidad, incluida la provisi¢n de nuestros Servicios, o para otros fines leg¡timos, como el cumplimiento de las obligaciones legales, el cumplimiento de nuestras Condiciones y la prevenci¢n de su incumplimiento, o la protecci¢n o defensa de nuestros derechos, propiedades y usuarios. La determinaci¢n de los per¡odos de almacenamiento se realiza en cada caso particular y depende de diversos factores, como la naturaleza de la informaci¢n, el motivo de la recopilaci¢n o el tratamiento, las necesidades de retenci¢n operativas o legales y las obligaciones legales.
+
+Para administrar, cambiar, limitar o eliminar tu informaci¢n, puedes usar las siguientes herramientas:
+
+Configuraci¢n de los Servicios. Puedes cambiar la configuraci¢n de los Servicios para administrar determinada informaci¢n disponible para otros usuarios. Puedes administrar tus contactos, grupos y listas de difusi¢n, o usar la opci¢n de bloqueo, para administrar los usuarios con los que te comunicas.
+Cambiar tu n£mero de tel‚fono m¢vil, nombre, foto del perfil y la informaci¢n sobre ti. Si cambias tu n£mero de tel‚fono m¢vil, debes actualizarlo con nuestra opci¢n para cambiar n£mero en la aplicaci¢n y transferir tu cuenta al nuevo n£mero de tel‚fono m¢vil. Tambi‚n puedes cambiar el nombre, la foto del perfil, as¡ como la informaci¢n sobre ti, en cualquier momento.
+Eliminar tu cuenta de WhatsApp. Puedes eliminar tu cuenta de WhatsApp en cualquier momento (incluso si quieres revocar el consentimiento otorgado para que usemos tu informaci¢n en virtud de la legislaci¢n aplicable) con nuestra funci¢n para eliminar la cuenta en la aplicaci¢n. Cuando eliminas tu cuenta de WhatsApp, los mensajes no entregados se eliminar n de nuestros servidores, as¡ como cualquier otra informaci¢n que ya no necesitemos para operar y proporcionarte nuestros Servicios. Si eliminas tu cuenta, eliminar s, por ejemplo, la informaci¢n de tu cuenta y la foto del perfil, se te quitar  de todos los grupos de WhatsApp y se borrar  tu historial de mensajes de WhatsApp. Ten en cuenta que si solo eliminas WhatsApp de tu dispositivo sin usar la funci¢n para eliminar la cuenta de la aplicaci¢n, conservaremos tu informaci¢n durante un per¡odo m s largo. Recuerda que la eliminaci¢n de tu cuenta no afecta la informaci¢n sobre los grupos que creaste ni la que otros usuarios tengan sobre ti, como las copias de los mensajes que t£ les enviaste.
+Aqu¡ puedes obtener m s informaci¢n sobre la eliminaci¢n y la retenci¢n de datos, as¡ como sobre c¢mo eliminamos tu cuenta.
+
+Volver al comienzo
+
+Legislaci¢n, nuestros derechos y protecci¢n
+Accedemos a la informaci¢n descrita en la secci¢n Informaci¢n que recopilamos de esta Pol¡tica de privacidad, la preservamos y la compartimos si, de buena fe, consideramos que es necesario para: (a) responder en virtud de la legislaci¢n o regulaciones aplicables a procedimientos legales o solicitudes gubernamentales; (b) exigir el cumplimiento de nuestras Condiciones, as¡ como de otras condiciones y pol¡ticas aplicables, incluso para investigar posibles infracciones; (c) detectar, investigar, prevenir y abordar casos de fraude y otras actividades il¡citas, o problemas t‚cnicos o relacionados con la seguridad; o (d) proteger los derechos, la propiedad y la seguridad de nuestros usuarios, WhatsApp, las otras empresas de Meta u otras personas, incluso a fin de evitar la muerte o el da¤o f¡sico inminente.
+
+Volver al comienzo
+
+Nuestras operaciones internacionales
+WhatsApp comparte informaci¢n de forma internacional, tanto internamente dentro de las empresas de Meta como externamente con nuestros socios, proveedores de servicio y con las personas con las que te comunicas en todo el mundo, de conformidad con esta Pol¡tica de privacidad. Por ejemplo, tu informaci¢n se podr¡a transferir o transmitir a los Estados Unidos, a pa¡ses o territorios donde los afiliados y socios de las empresas de Meta o nuestros proveedores de servicio se ubiquen, o a otro pa¡s o territorio del mundo donde nuestros Servicios se proporcionen fuera del lugar donde vives, o bien se almacene o se trate en ellos, para los fines que se describen en esta Pol¡tica de privacidad. WhatsApp usa los centros de datos y la infraestructura global de Meta, incluso en los Estados Unidos. Estas transferencias son necesarias para proveer los Servicios a nivel mundial, como se establece en nuestras Condiciones. Recuerda que la protecci¢n y las normas de privacidad de los pa¡ses y territorios a los que se transfiere tu informaci¢n pueden ser diferentes a las de tu territorio o pa¡s de residencia.
+
+Volver al comienzo
+
+Actualizaciones de nuestra Pol¡tica
+Podemos modificar o actualizar nuestra Pol¡tica de privacidad. Te avisaremos de las modificaciones a esta Pol¡tica de privacidad, cuando corresponda, y actualizaremos la fecha de entrada en vigencia que figura en la parte superior de esta Pol¡tica de privacidad. Revisa nuestra Pol¡tica de privacidad de vez en cuando.
+
+Volver al comienzo
+
+
+
+Cont ctanos
+
+
+Si tienes preguntas sobre nuestra Pol¡tica de privacidad, o alg£n inconveniente al respecto, ponte en contacto con nosotros.
+
+WhatsApp LLC
+
+Privacy Policy
+
+1601 Willow Road
+
+Menlo Park, California 94025
+
+United States of America
+
+Volver al comienzo

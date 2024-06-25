@@ -1,0 +1,153 @@
+In°cio da vigància: 4 de janeiro de 2021 (vers?es arquivadas)
+
+Pol°tica de Privacidade do WhatsApp
+Se vocà reside na Regi?o Europeia, o WhatsApp Ireland Limited fornece os Serviáos para vocà de acordo com estes Termos de Serviáo e a Pol°tica de Privacidade.
+
+Se vocà reside no Reino Unido, o WhatsApp LLC fornecer† os Serviáos para vocà de acordo com estes Termos de Serviáo e esta Pol°tica de Privacidade.
+
+Informaá?es Legais do WhatsApp
+Se vocà n?o reside na Regi?o Europeia ou no Reino Unido, o WhatsApp LLC (?WhatsApp?, ?nossos?, ?n¢s? ou ?conosco?) fornece os Serviáos para vocà de acordo com esses Termos de Serviáo e Pol°tica de Privacidade.
+
+Nossa Pol°tica de Privacidade (?Pol°tica de Privacidade?) ajuda a explicar nossas pr†ticas de dados, como as informaá?es que tratamos para fornecer nossos Serviáos.
+
+Por exemplo, nossa Pol°tica de Privacidade mostra quais dados s?o coletados sobre vocà e como isso afeta vocà. Ela tambÇm explica as medidas que tomamos para proteger sua privacidade, como desenvolver nossos Serviáos de modo a n?o armazenarmos as mensagens entregues e dar controle para vocà decidir com quem se comunica nos nossos Serviáos.
+
+Fazemos parte das Empresas da Meta. Saiba mais abaixo, nesta Pol°tica de Privacidade, sobre as formas que usamos para compartilhar informaá?es com essa fam°lia de empresas.
+
+Esta Pol°tica de Privacidade se aplica a todos os nossos Serviáos, exceto se especificado de outra forma.
+
+Leia tambÇm os Termos de Serviáo do WhatsApp (?Termos?), que descrevem os termos que regulam o fornecimento e o uso que vocà faz de nossos Serviáos.
+
+Voltar ao topo
+
+Atualizaá?es importantes
+O respeito que temos por sua privacidade est† em nosso DNA. Desde que fundamos o WhatsApp, n¢s desenvolvemos nossos Serviáos com base em s¢lidos princ°pios de seguranáa e privacidade. Em nossos Termos de Serviáo e Pol°tica de Privacidade atualizados, vocà encontrar†:
+
+Informaá?es adicionais sobre como tratamos seus dados. Nossos Termos e Pol°tica de Privacidade atualizados fornecem informaá?es adicionais sobre como tratamos seus dados e nosso compromisso com a privacidade. Por exemplo, inclu°mos informaá?es adicionais sobre os recursos e as funcionalidades mais recentes de nossos produtos, sobre como tratamos seus dados para manter a seguranáa, proteá?o e integridade, e adicionamos links diretos para as configuraá?es do usu†rio, artigos da Central de ajuda e sobre como vocà pode gerenciar suas informaá?es.
+Melhor comunicaá?o com empresas. Muitas empresas dependem do WhatsApp para se comunicar com os seus clientes e consumidores. Trabalhamos com empresas que usam a Meta ou outros terceiros para auxiliar no armazenamento e gerenciar melhor as comunicaá?es delas com vocà no WhatsApp.
+Maior facilidade de conex?o. Como parte das Empresas da Meta, o WhatsApp colabora com ela para oferecer experiàncias e integraá?es Ö fam°lia de apps e produtos da empresa controladora.
+Voltar ao topo
+
+Informaá?es que coletamos
+O WhatsApp precisa receber ou coletar algumas informaá?es para operar, fornecer, melhorar, entender, personalizar e comercializar nossos Serviáos e oferecer suporte para eles, incluindo quando vocà os instala, acessa ou usa.
+
+Os tipos de dados que recebemos e coletamos dependem de como vocà usa nossos Serviáos. Para fornecermos nossos Serviáos, solicitamos certas informaá?es e, sem elas, n?o poderemos oferecer esses Serviáos a vocà. Por exemplo, precisamos que vocà forneáa seu n£mero de telefone celular para criar uma conta e usar nossos Serviáos.
+
+Nossos Serviáos tàm recursos opcionais e precisamos coletar dados adicionais para fornecà-los a vocà. Conforme o caso, vocà receber† uma notificaá?o sobre essa coleta. Caso vocà decida n?o fornecer os dados necess†rios Ö utilizaá?o de um recurso, n?o ser† poss°vel us†-lo. Por exemplo, vocà n?o conseguir† compartilhar sua localizaá?o com seus contatos se n?o permitir a coleta dos seus dados de localizaá?o do seu dispositivo. As permiss?es podem ser gerenciadas pelo menu de Configuraá?es/Ajustes em dispositivos Android e iOS.
+
+Dados fornecidos por vocà
+Dados de sua conta. Vocà deve enviar seu n£mero de telefone celular e seus dados b†sicos (como um nome de perfil escolhido por vocà) para criar uma conta do WhatsApp. Caso vocà n?o forneáa esses dados, vocà n?o conseguir† criar uma conta para utilizar nossos Serviáos. Outras informaá?es podem ser adicionadas Ö sua conta, como uma foto de perfil e um recado.
+Suas mensagens. N?o guardamos suas mensagens durante a prestaá?o dos Serviáos. Em vez disso, suas mensagens s?o armazenadas no seu dispositivo e normalmente n?o ficam armazenadas nos nossos servidores. Ao entregarmos suas mensagens, elas s?o apagadas dos nossos servidores. Os cen†rios a seguir descrevem os casos em que podemos armazenar suas mensagens durante o processo de entrega:
+Mensagens n?o entregues. Se uma mensagem n?o puder ser entregue imediatamente (por exemplo, se o destinat†rio estiver offline), mantemos a mensagem criptografada em nossos servidores por atÇ 30 (trinta) dias enquanto tentamos entreg†-la. Se a mensagem n?o puder ser entregue ap¢s 30 (trinta) dias, n¢s a apagaremos.
+Encaminhamento de m°dia. Quando um usu†rio encaminha uma mensagem com arquivos de m°dia, n¢s os armazenamos temporariamente de modo criptografado nos nossos servidores para garantir uma entrega mais eficiente de outros encaminhamentos.
+
+Os nossos Serviáos s?o protegidos com criptografia de ponta a ponta. Graáas a essa tecnologia, suas mensagens s?o criptografadas para que n¢s ou terceiros n?o possamos là-las. Saiba mais sobre a proteá?o dacriptografia de ponta a ponta e sobre como as empresas se comunicam com vocà no WhatsApp.
+Seus contatos. Use o recurso de carregamento de contatos para nos enviar, se permitido pelas leis aplic†veis, os n£meros de telefone de sua agenda de contatos regularmente, tanto de usu†rios de nossos Serviáos quanto de outros contatos. Se algum dos seus contatos ainda n?o estiver utilizando nossos Serviáos, gerenciaremos esses dados de forma a garantir que seus contatos n?o sejam identificados por n¢s. Saiba mais sobre nosso recurso de carregamento de contato neste artigo. Vocà pode criar, entrar ou ser adicionado a grupos e listas de transmiss?o, que ser?o associados aos dados da sua conta. Vocà deve atribuir um nome aos grupos. ê poss°vel adicionar uma descriá?o ou imagem ao grupo.
+Dados de status. Vocà pode compartilhar conosco seu status caso decida adicion†-lo Ö sua conta. Saiba como usar o status no Android, no iPhone ou no KaiOS.
+Dados de transaá?es e pagamentos. Caso vocà use os serviáos de pagamento, nossos Serviáos de compra ou outras transaá?es financeiras, tratamos dados adicionais sobre vocà, como conta para pagamento e dados da transaá?o. Os dados de conta para pagamento e transaá?o incluem informaá?es necess†rias para concluir a transaá?o (como informaá?es sobre sua forma de pagamento, dados de envio e valor da transaá?o). Se vocà usar nossos serviáos de pagamento dispon°veis em seu pa°s ou territ¢rio, nossas pr†ticas de privacidade ser?o descritas na pol°tica de privacidade do recurso pagamentos aplic†vel.
+Suporte e outras comunicaá?es com os clientes. Ao entrar em contato com o suporte para obter ajuda, ou se comunicar conosco de alguma outra forma, vocà poder† fornecer dados relacionados ao seu uso dos nossos Serviáos, como c¢pias de suas mensagens, dados que considerar £teis e uma forma de contato (como um endereáo de e-mail). Por exemplo, podemos receber um e-mail seu com dados sobre o desempenho do app ou com outras quest?es.
+
+Dados coletados automaticamente
+Dados de uso e de registro. Coletamos dados sobre sua atividade em nossos Serviáos, como dados de serviáos, de diagn¢stico e de desempenho. Essa coleta inclui dados sobre sua atividade (inclusive como vocà usa nossos Serviáos, suas configuraá?es dos Serviáos, como vocà interage com outras pessoas usando nossos Serviáos ? inclusive quando vocà interage com uma empresa ?, e o tempo, a frequància e a duraá?o de suas atividades e interaá?es), arquivos de registro, diagn¢stico, falha, site, bem como relat¢rios e registros de desempenho. A coleta tambÇm inclui dados sobre quando vocà se cadastrou para usar nossos Serviáos; os recursos que vocà usa, como nossos recursos de grupos, Status, ligaá?es ou mensagens (incluindo nome do grupo, imagem do grupo e descriá?o do grupo), recursos comerciais e de pagamentos; foto de perfil; recado; se vocà est† online; quando usou nossos Serviáos pela £ltima vez (seu "visto por £ltimo"); e quando vocà atualizou seu recado pela £ltima vez.
+Dados sobre conex?es e dispositivos. Coletamos dados espec°ficos sobre conex?es e dispositivos quando vocà instala, acessa ou usa nossos Serviáos. Essa coleta inclui informaá?es como modelo de hardware, informaá?es do sistema operacional, n°vel da bateria, foráa do sinal, vers?o do app, informaá?es do navegador, rede m¢vel, informaá?es de conex?o (incluindo n£mero de telefone, operadora de celular ou provedor de serviáos de internet), idioma e fuso hor†rio, endereáo IP, informaá?es de operaá?es do dispositivo e identificadores (inclusive identificadores exclusivos para Produtos das Empresas da Meta associados ao mesmo dispositivo ou conta).
+Dados de localizaá?o. N¢s coletamos e utilizamos dados precisos de localizaá?o com sua permiss?o quando vocà escolhe usar recursos relacionados Ö localizaá?o, como quando vocà decide compartilhar sua localizaá?o com seus contatos ou visualizar as localizaá?es pr¢ximas ou localizaá?es que outras pessoas compartilharam com vocà. H† determinadas configuraá?es relacionadas a dados de localizaá?o que vocà pode encontrar nas configuraá?es do seu dispositivo ou do app, como o compartilhamento de localizaá?o. Mesmo se vocà n?o utiliza nossos recursos relacionados Ö localizaá?o, usamos endereáos IP e outros dados, como c¢digos de †rea de n£mero de telefone, para calcular a sua localizaá?o geral (por exemplo, cidade e pa°s). N¢s tambÇm usamos seus dados de localizaá?o para fins de diagn¢stico e de soluá?o de problemas.
+Cookies. Usamos cookies para operar e prestar os nossos Serviáos, inclusive Serviáos baseados na web, aprimorar a sua experiància, compreender como os nossos Serviáos s?o usados e personaliz†-los. Por exemplo, usamos cookies para prestar os nossos Serviáos para web, para computador e outros serviáos baseados em web. TambÇm podemos utilizar cookies para entender quais s?o aos artigos mais populares na nossa Central de ajuda e exibir conte£do relevante relacionado aos nossos Serviáos. AlÇm disso, podemos utilizar cookies para lembrar de suas escolhas, como as preferàncias de idioma, oferecer uma experiància mais segura e personalizar nossos Serviáos para vocà. Saiba mais sobre como n¢s utilizamos cookies para fornecer nossos Serviáos.
+
+Voltar ao topo
+
+Dados de terceiros
+Dados fornecidos por terceiros sobre vocà. Recebemos dados de outros usu†rios sobre vocà. Por exemplo, quando outros usu†rios que vocà conhece utilizam nossos Serviáos, eles podem fornecer seu n£mero de telefone, nome e outros dados (como os que est?o na agenda de contatos do celular deles), assim como os n£meros desses usu†rios podem vir de seus contatos. Eles tambÇm podem enviar mensagens para vocà e para os grupos dos quais participa ou ligar para vocà. Exigimos que cada um desses usu†rios tenha autorizaá?o legal para coletar, usar e compartilhar seus dados antes de fornecà-los para n¢s.
+Lembre-se de que, em geral, qualquer usu†rio pode fazer capturas de tela das suas conversas ou mensagens, ou gravar suas ligaá?es com ele e envi†-las para o WhatsApp, para outras pessoas ou public†-las em outra plataforma.
+Den£ncias de usu†rios. Assim como vocà pode denunciar outros usu†rios, outros usu†rios ou terceiros tambÇm podem denunciar suas interaá?es e mensagens enviadas para eles ou para outras pessoas nos nossos Serviáos, por exemplo, a fim de denunciar poss°veis violaá?es dos nossos Termos ou pol°ticas. Quando uma den£ncia Ç feita, coletamos dados tanto do usu†rio que denunciou, quanto do que foi denunciado. Para saber mais sobre o que acontece quando um usu†rio faz uma den£ncia, consulte Recursos avanáados de seguranáa.
+Empresas no WhatsApp. As empresas com as quais vocà interage utilizando nossos Serviáos podem fornecer informaá?es sobre as interaá?es delas com vocà. Solicitamos que cada uma dessas empresas aja de acordo com as leis aplic†veis ao fornecer qualquer informaá?o para n¢s.
+AlÇm disso, ao conversar com uma empresa no WhatsApp, tenha em mente que v†rias pessoas que trabalham nela podem ver o conte£do compartilhado por vocà. AlÇm disso, algumas empresas podem trabalhar com provedores de serviáos de terceiros (o que pode incluir a Meta) para ajudar a gerenciar suas comunicaá?es com os clientes. Por exemplo, uma empresa pode disponibilizar acesso Ös comunicaá?es para que esses provedores de serviáos de terceiros as enviem, armazenem, leiam, gerenciem ou tratem para a empresa. Para entender como uma empresa trata seus dados, incluindo como ela pode compartilh†-los com terceiros ou com a Meta, consulte a pol°tica de privacidade da empresa em quest?o ou entre em contato diretamente com ela.
+Provedores de serviáos de terceiros. Trabalhamos com provedores de serviáos de terceiros e com outras Empresas da Meta para nos ajudar a operar, fornecer, aprimorar, entender, personalizar e comercializar nossos Serviáos, alÇm de oferecer suporte para eles. Por exemplo, trabalhamos juntos para distribuir nossos apps; disponibilizar nossos sistemas de infraestrutura tÇcnica e f°sica, veiculaá?o e outros; prestar suporte de seguranáa cibernÇtica, de operaá?es e de engenharia; oferecer dados de locais, de mapas e de localizaá?o; processar pagamentos; entender como as pessoas usam nossos Serviáos; comercializar nossos Serviáos; ajudar vocà a se conectar a empresas com os nossos Serviáos; realizar pesquisas e estudos; garantir proteá?o, seguranáa e integridade; e ajudar no atendimento ao cliente. Essas empresas podem nos fornecer dados sobre vocà em determinadas circunstÉncias. Por exemplo, as app stores podem nos enviar relat¢rios para nos ajudar a diagnosticar e corrigir problemas no serviáo.
+A seá?o ?Como trabalhamos com outras Empresas da Meta?, localizada abaixo, d† mais informaá?es sobre como o WhatsApp coleta e compartilha dados com outras Empresas da Meta.
+Serviáos de terceiros. Permitimos que vocà use nossos Serviáos junto com serviáos de terceiros e Produtos das Empresas da Meta. Caso nossos Serviáos sejam usados com serviáos de terceiros ou Produtos das Empresas da Meta, podemos receber seus dados por meio deles, como quando vocà usa o bot?o compartilhar do WhatsApp em um serviáo de not°cias para compartilhar uma reportagem com contatos e grupos do WhatsApp ou listas de transmiss?o dos nossos Serviáos ou quando vocà acessa nossos Serviáos por meio de uma promoá?o feita por uma operadora de celular ou por uma fornecedora do dispositivo. Quando vocà usa serviáos de terceiros ou Produtos das Empresas da Meta, os termos e as pol°ticas de privacidade aplic†veis regem o uso desses serviáos e produtos.
+Voltar ao topo
+
+Como usamos as informaá?es
+Usamos as informaá?es sob nosso controle (de acordo com as decis?es que vocà tomou e com a lei aplic†vel) para operar, fornecer, aprimorar, entender, personalizar e comercializar nossos Serviáos, alÇm de oferecer suporte para eles. Veja como:
+
+Nossos Serviáos. Usamos os dados que temos para operar e fornecer nossos Serviáos, como para oferecer suporte, concluir compras ou transaá?es, aprimorar, corrigir e personalizar nossos Serviáos e conect†-los aos Produtos das Empresas da Meta que vocà pode usar. TambÇm usamos as informaá?es que temos para compreender como as pessoas usam nossos Serviáos, avaliar e aprimor†-los, pesquisar, desenvolver e testar serviáos e recursos novos e solucionar problemas. TambÇm usamos seus dados para responder quando vocà entra em contato conosco.
+Proteá?o, seguranáa e integridade. Proteá?o, seguranáa e integridade s?o essenciais para nossos Serviáos. Usamos as informaá?es que temos para verificar contas e atividades; combater condutas nocivas, proteger usu†rios de experiàncias ruins e mensagens indesejadas (spam); promover a proteá?o, a seguranáa e a integridade dentro e fora de nossos Serviáos, investigando atividades suspeitas ou violaá?es de nossos Termos e Pol°ticas. TambÇm usamos essas informaá?es para garantir que nossos Serviáos est?o sendo utilizados de forma legal. Saiba mais na seá?o Lei, nossos direitos e proteá?o, localizada abaixo.
+Comunicaá?es sobre nossos serviáos e sobre as Empresas da Meta. Usamos os dados que temos para entrar em contato com vocà sobre os nossos Serviáos e informar dos nossos termos, pol°ticas e outras atualizaá?es importantes. Podemos enviar an£ncios sobre os nossos Serviáos e os das Empresas da Meta.
+Sem banner com an£ncios de terceiros. Seguimos n?o permitindo banners com an£ncios de terceiros em nossos Serviáos. N¢s n?o temos a intená?o de usar an£ncios de terceiros, mas caso venhamos a us†-los, atualizaremos esta Pol°tica de Privacidade.
+Interaá?es comerciais. Possibilitamos que vocà e empresas terceirizadas se comuniquem e interajam utilizando nossos serviáos, como o Cat†logo para empresas no WhatsApp, no qual Ç poss°vel visualizar produtos e serviáos, bem como realizar pedidos. As empresas podem enviar notificaá?es de transaá?o, consulta e envio, atualizaá?es de serviáos e produtos, e marketing. Por exemplo, vocà poder† receber uma mensagem sobre o status de um voo, um recibo de uma compra ou uma notificaá?o quando uma entrega foi realizada. As mensagens de marketing que vocà venha a receber poder?o conter ofertas de algo de seu interesse. N?o queremos que vocà tenha uma experiància com mensagens indesejadas (spam); como em todas as suas mensagens, vocà poder† administrar esses tipos de comunicaá?o, e respeitaremos sua escolha.
+Voltar ao topo
+
+Informaá?es que vocà e n¢s compartilhamos
+Vocà compartilha informaá?es Ö medida que usa nossos Serviáos e se comunica por meio deles, e n¢s compartilhamos suas informaá?es para nos ajudar a operar, fornecer, aprimorar, entender, personalizar e comercializar nossos Serviáos, alÇm de oferecer suporte para eles.
+
+Enviar seus dados para as pessoas com as quais vocà escolhe se comunicar. Vocà fornece seus dados (incluindo mensagens) Ö medida que usa e se comunica por meio de nossos Serviáos.
+Dados associados Ö sua conta. Seu n£mero de telefone, nome e foto de perfil, informaá?es sobre recado e visto por £ltimo, e notificaá?es de mensagem est?o dispon°veis para qualquer pessoa que use nossos Serviáos. No entanto, Ç poss°vel configurar os Serviáos para definir se alguns dados devem ficar dispon°veis para outros usu†rios e empresas com os quais vocà se comunica.
+Seus contatos e outros. Os usu†rios e as empresas com quem vocà se comunica podem armazenar ou compartilhar seus dados (inclusive seu n£mero de telefone ou mensagens) com outras pessoas dentro e fora de nossos Serviáos. ê poss°vel usar a configuraá?o e o recurso ?bloquear? em nossos Serviáos para gerenciar com quem vocà se comunica nos nossos Serviáos e a forma de compartilhamento de determinados dados.
+Empresas no WhatsApp. Oferecemos serviáos espec°ficos Ös empresas, como mÇtricas relacionadas ao uso de nossos serviáos por essas empresas.
+Provedores de serviáos de terceiros. Trabalhamos com provedores de serviáos de terceiros e com outras Empresas da Meta para nos ajudar a operar, fornecer, aprimorar, entender, personalizar e comercializar nossos Serviáos, alÇm de oferecer suporte para eles. N¢s trabalhamos com essas empresas para oferecer suporte para os nossos Serviáos, como disponibilizar sistemas de infraestrutura tÇcnica e f°sica, veiculaá?o e outros; comercializar nossos Serviáos; realizar pesquisas; garantir a proteá?o, a seguranáa e a integridade dos usu†rios e de outras pessoas; e ajudar no atendimento ao cliente. Quando compartilhamos informaá?es com provedores de serviáo de terceiros e com outras Empresas da Meta nesse sentido, exigimos que eles usem suas informaá?es em nosso nome de acordo com as nossas instruá?es e termos.
+Serviáos de terceiros. Quando vocà ou outra pessoa usa serviáos de terceiros ou outros Produtos das Empresas da Meta que s?o integrados aos nossos Serviáos, esses serviáos de terceiros podem receber informaá?es sobre o que vocà ou outras pessoas compartilham com eles. Por exemplo, se vocà usa um serviáo de backup de dados integrado aos nossos Serviáos (como o iCloud ou a Conta do Google), eles recebem informaá?es que vocà compartilha com eles, como suas mensagens do WhatsApp. Caso vocà interaja com um serviáo de terceiros ou outro Produto das Empresas da Meta conectado por meio dos nossos Serviáos (como o uso do player do app para reproduzir conte£do de uma plataforma externa) os dados sobre vocà, como endereáo IP e a informaá?o de que vocà Ç usu†rio do WhatsApp, podem ser fornecidos a esse terceiro ou aos Produtos das Empresas da Meta. Quando vocà usa serviáos de terceiros ou outros Produtos das Empresas da Meta, os termos e as pol°ticas de privacidade aplic†veis regem o uso desses serviáos e produtos.
+Voltar ao topo
+
+Como trabalhamos com outras Empresas da Meta
+Como parte das Empresas da Meta, o WhatsApp troca informaá?es (consulte este artigo) com elas. Podemos usar os dados que essas Empresas fornecem. Elas, por sua vez, podem usar os dados que compartilhamos para nos ajudar a operar, fornecer, aprimorar, entender, personalizar e comercializar nossos Serviáos e as ofertas delas, inclusive os Produtos das Empresas da Meta, alÇm de oferecer suporte para eles. Isso inclui o seguinte:
+
+Ajudar a aprimorar os sistemas de infraestrutura e entrega.
+Entender como s?o usados nossos Serviáos ou os das Empresas da Meta.
+Promover a proteá?o, a seguranáa e a integridade para os Produtos das Empresas da Meta, como sistemas de proteá?o e combate a mensagens indesejadas, ameaáas, abusos ou infraá?es.
+Aprimorar os serviáos das Empresas da Meta e sua experiància ao us†-los, como fazer sugest?es de conex?es de grupos ou de amigos ou de conte£do interessante, personalizaá?o de recursos e de conte£do, ajuda para realizar compras ou transaá?es e exibiá?o de ofertas e an£ncios relevantes sobre os Produtos das Empresas da Meta.
+Disponibilizar integraá?es que possibilitem a conex?o das suas experiàncias do WhatsApp com outros Produtos das Empresas da Meta. Por exemplo, permitir que vocà conecte sua conta do Facebook Pay para realizar pagamentos no WhatsApp ou habilitar a conversa com os seus amigos em outros Produtos das Empresas da Meta, como o Portal, conectando sua conta do WhatsApp.
+Para saber mais sobre as outras Empresas da Meta e suas pr†ticas de privacidade, consulte a pol°tica de privacidade delas.
+
+Voltar ao topo
+
+Cess?o, alteraá?o no controle e transferància
+Caso estejamos envolvidos em uma fus?o, aquisiá?o, reestruturaá?o, falància ou venda de todos ou alguns de nossos ativos, compartilharemos com as entidades sucessoras ou com os novos propriet†rios seus dados relacionados Ö transaá?o e de acordo com as leis aplic†veis de proteá?o de dados.
+
+Voltar ao topo
+
+Gerenciamento e manutená?o dos seus dados
+Vocà pode acessar ou portar seus dados usando nosso recurso ?Solicitar dados da conta? (abra o WhatsApp e toque em Configuraá?es/Ajustes &gt; Conta). Os usu†rios de iPhone podem aprender a acessar, gerenciar e apagar os dados por meio dos nossos artigos da Central de ajuda para iPhone. Os usu†rios de Android podem aprender a acessar, gerenciar e excluir as informaá?es por meio dos nossos artigos da Central de Ajuda para Android.
+
+N¢s armazenamos informaá?es pelo tempo necess†rio para as finalidades identificadas nesta Pol°tica de Privacidade, inclusive para fornecer nossos Serviáos ou por algum outro motivo leg°timo, como cumprir com obrigaá?es jur°dicas, evitar violaá?es dos nossos Termos, proteger ou defender nossos direitos, nossa propriedade e nossos usu†rios. O per°odo de armazenamento varia de acordo com cada caso e depende de fatores como a natureza dos dados, o motivo pelo qual s?o coletados e tratados, e necessidades de retená?o operacional ou legal relevantes.
+
+Se vocà tambÇm quiser gerenciar, alterar, limitar ou apagar suas informaá?es, Ç poss°vel fazà-lo por meio dos seguintes recursos:
+
+Configuraá?es dos Serviáos. Vocà pode alterar as configuraá?es dos Serviáos para gerenciar a disponibilidade de determinados dados para outros usu†rios. TambÇm Ç poss°vel gerenciar seus contatos, grupos e listas de transmiss?o ou usar nosso recurso ?bloquear? para gerenciar os usu†rios com quem vocà se comunica.
+Alteraá?o de n£mero de celular, nome, foto de perfil e recado. Se vocà mudar de n£mero de celular, vocà precisar† atualiz†-lo usando o recurso de mudanáa de n£mero no app e transferir sua conta para o novo n£mero de celular. TambÇm Ç poss°vel alterar seu nome do perfil, foto de perfil e recado a qualquer momento.
+Como apagar a sua conta do WhatsApp. ê poss°vel apagar a sua conta do WhatsApp a qualquer momento (inclusive a revogaá?o do consentimento de uso de seus dados por n¢s de acordo com as leis aplic†veis) com o recurso interno ?Apagar minha conta?. Quando vocà apaga a sua conta do WhatsApp, as mensagens que n?o foram entregues s?o apagadas dos nossos servidores, juntamente com outros dados que j† n?o precisamos para a operaá?o e prestaá?o dos nossos Serviáos. A exclus?o da sua implicar†, por exemplo, na exclus?o dos dados da conta e da sua foto do perfil, na sua remoá?o de todos os grupos do WhatsApp e na exclus?o do seu hist¢rico de mensagens do WhatsApp. Observe que, se vocà apenas apagar o WhatsApp do seu dispositivo sem usar o nosso recurso Apagar minha conta, os seus dados ficar?o armazenados conosco por mais tempo. Lembre-se de que apagar a sua conta n?o afeta os dados relacionados aos grupos que vocà criou ou que outros usu†rios tàm sobre vocà, como c¢pias de mensagens que vocà enviou.
+Saiba mais sobre nossas pr†ticas de exclus?o e retená?o de dados e sobre como apagar sua conta neste artigo.
+
+Voltar ao topo
+
+Lei, nossos diretos e proteá?o
+Acessamos, preservamos e compartilhamos suas informaá?es descritas na seá?o ?Informaá?es que Coletamos?, desta Pol°tica de Privacidade, quando o julgamos necess†rio para (a) atuar conforme a legislaá?o ou os regulamentos aplic†veis, processos legais ou solicitaá?es governamentais; (b) impor nossos Termos e outros termos e pol°ticas aplic†veis, incluindo investigaá?es sobre poss°veis violaá?es; (c) detectar, investigar, prevenir ou resolver fraudes e outras atividades il°citas ou quest?es de seguranáa ou tÇcnicas; ou (d) proteger os direitos, a propriedade e a seguranáa dos nossos usu†rios, do WhatsApp, das demais Empresas da Meta ou de terceiros, inclusive a fim de impedir morte ou les?es corporais iminentes.
+
+Voltar ao topo
+
+Nossas operaá?es globais
+O WhatsApp compartilha informaá?es pelo mundo inteiro, tanto internamente, com Empresas da Meta, quanto externamente, com os nossos parceiros e provedores de serviáo, e tambÇm com quem vocà se comunica em todo o mundo, em conformidade com esta Pol°tica de Privacidade. Por exemplo, suas informaá?es podem ser n?o s¢ armazenadas e tratadas nos Estados Unidos, em pa°ses ou territ¢rios onde as afiliadas e os parceiros das Empresas da Meta ou nossos provedores de serviáos est?o localizados ou em qualquer outro pa°s ou territ¢rio no mundo em que nossos Serviáos sejam fornecidos fora da regi?o em que vocà reside para as finalidades descritas nesta Pol°tica de Privacidade, mas tambÇm transferidas ou transmitidas para esses lugares. O WhatsApp usa a infraestrutura global e as centrais de dados da Meta, inclusive nos Estados Unidos. Essas transferàncias s?o necess†rias para fornecer os Serviáos globais estabelecidos em nossos Termos. Lembre-se de que os pa°ses ou territ¢rios para os quais seus dados forem transferidos podem ter proteá?es e leis de privacidade diferentes das do seu pa°s ou territ¢rio de origem.
+
+Voltar ao topo
+
+Atualizaá?es da nossa Pol°tica
+Podemos alterar ou atualizar nossa Pol°tica de Privacidade. Notificaremos vocà sobre alteraá?es feitas nesta Pol°tica de Privacidade, conforme adequado, e atualizaremos a data de ?In°cio da vigància? na parte superior desta Pol°tica de Privacidade. Consulte nossa Pol°tica de Privacidade periodicamente.
+
+Voltar ao topo
+
+
+
+Fale conosco
+
+
+Em caso de d£vidas ou preocupaá?es sobre esta Pol°tica de Privacidade, entre em contato conosco.
+
+WhatsApp LLC
+
+Privacy Policy
+
+1601 Willow Road
+
+Menlo Park, California 94025
+
+United States of America
+
+Voltar ao topo
